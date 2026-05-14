@@ -1,3 +1,3 @@
 # Technologierecht
 
-Skills für künstliche Intelligenz, Informationssicherheit, Meldepflichten, Plattformverkauf, digitale Dienste und Barrierefreiheit.
+Skills für künstliche Intelligenz, Informationssicherheit, Cyberresilienz, Datenzugang, Cloudwechsel, digitale Dienste, Plattformpflichten, Produktfreigaben und regulatorisches Monitoring.

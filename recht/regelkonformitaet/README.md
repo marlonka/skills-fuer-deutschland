@@ -1,3 +1,3 @@
 # Regelkonformität
 
-Skills für Hinweisgeberschutz, Lieferkettensorgfalt, Geldwäscheprävention, Transparenzregister, Produktsicherheit, Produktkennzeichnung und Produkthaftung.
+Skills für Compliance, Produktsicherheit, Produkthaftung, Hinweisgeber, Lieferketten, Geldwäsche, Digitalregulierung, Geschäftsleitungsorganisation und Audit.

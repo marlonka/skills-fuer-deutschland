@@ -1,3 +1,3 @@
 # Urheberrecht
 
-Skills für urheberrechtliche Nutzungsrechte, Lizenzen, Rechteketten, Abmahnungen, Software, Inhalte und quelloffene Komponenten.
+Skills für Urheberrecht, Nutzungsrechte, Trainingsdaten, offene Software, Modelllizenzen und Rechteketten.

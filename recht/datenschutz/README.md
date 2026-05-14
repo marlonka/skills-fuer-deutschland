@@ -1,3 +1,3 @@
 # Datenschutz
 
-Skills für Datenschutz-Folgenabschätzungen, Auftragsverarbeitung, Datenschutzvorfälle, Betroffenenrechte, Beschäftigtendatenschutz, Kundenprogramme und Videoüberwachung.
+Skills für Datenschutz-Folgenabschätzungen, Auftragsverarbeitung, Betroffenenrechte, Datenschutzverletzungen, Beschäftigtendaten, Kundendaten, Vermietung, Videoüberwachung und algorithmische Systeme.

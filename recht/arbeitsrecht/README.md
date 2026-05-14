@@ -1,3 +1,3 @@
 # Arbeitsrecht
 
-Skills für Arbeitsverträge, Kündigungen, Aufhebungsverträge, Beschäftigtendatenschutz im Arbeitskontext, Betriebsrat, Schichtplanung und Personalabbau.
+Skills für Arbeitsverträge, Kündigungen, Arbeitszeit, Betriebsrat, Filialstrukturen, Personalabbau und algorithmische Systeme im Beschäftigtenkontext.
