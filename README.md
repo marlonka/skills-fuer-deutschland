@@ -4,155 +4,92 @@ Deutsch-first Skills für KI-Assistenten, die deutsche Arbeit in deutschen Recht
 
 Viele öffentliche Skill-Sammlungen sind englisch, amerikanisch geprägt oder zu allgemein für deutsche Nutzer. Dieses Repository sammelt Fähigkeiten, die deutsche Quellen, deutsche Begriffe, deutsche Risiken und deutsche Arbeitsprodukte ernst nehmen.
 
-## Rechtsbereich
+Der erste Schwerpunkt ist Recht: Skills sollen Entwürfe, Prüfvermerke, Lückenlisten, Risikoanalysen, Vertragsvergleiche, Verhandlungsunterlagen und Entscheidungsvorlagen so vorbereiten, dass erfahrene Juristen schneller zu belastbaren Ergebnissen kommen.
 
-Der erste Schwerpunkt ist Recht für deutsche Organisationen, Kanzleien, Datenschutzbeauftragte, Personalabteilungen, Geschäftsführungen, Einkaufsabteilungen und Produktteams.
+## Ziel
 
-Aktuelle Fähigkeiten:
+Ein Skill soll nicht nur erklären, was ungefähr gilt. Er soll der KI die Arbeitsweise vorgeben, die ein sehr guter deutscher Anwalt erwarten würde:
 
-- `recht/anwaltliche-arbeitsmethoden/mandanten-email-mit-empfehlung-entwerfen`
-- `recht/anwaltliche-arbeitsmethoden/mandantenmemo-und-entscheidungsvorlage-erstellen`
-- `recht/anwaltliche-arbeitsmethoden/mandatsanfrage-strukturieren-und-luecken-klaeren`
-- `recht/anwaltliche-arbeitsmethoden/rechtsgutachten-in-praxismemo-uebersetzen`
-- `recht/anwaltliche-arbeitsmethoden/risikoampel-fuer-geschaeftsleitung-erstellen`
-- `recht/arbeitsrecht/algorithmische-systeme-im-beschaeftigtenkontext-pruefen`
-- `recht/arbeitsrecht/arbeitsvertrag-und-nachweis-der-arbeitsbedingungen`
-- `recht/arbeitsrecht/arbeitszeit-schichtplaene-und-sonntagsarbeit-im-handel`
-- `recht/arbeitsrecht/betriebsrat-in-filialstrukturen`
-- `recht/arbeitsrecht/filialschliessung-und-personalabbau`
-- `recht/arbeitsrecht/kuendigung-und-abmahnung-im-filialbetrieb`
-- `recht/arbeitsrecht/kuendigung-und-aufhebungsvertrag-im-arbeitsverhaeltnis`
-- `recht/baurecht/bauvertrag-abnahme-und-maengelrechte`
-- `recht/bildungsrecht/schule-pruefung-und-hochschule`
-- `recht/datenschutz/auftragsverarbeitung-und-datenschutzvertraege`
-- `recht/datenschutz/beschaeftigtendatenschutz-im-handel`
-- `recht/datenschutz/betroffenenrechte-und-loeschkonzepte`
-- `recht/datenschutz/datenschutz-folgenabschaetzung`
-- `recht/datenschutz/datenschutz-folgenabschaetzung-fuer-algorithmen`
-- `recht/datenschutz/datenschutzbewertung-fuer-algorithmische-modelle`
-- `recht/datenschutz/datenschutzverletzung-und-meldepflichten`
-- `recht/datenschutz/eingabe-und-ausgabedaten-rechtlich-pruefen`
-- `recht/datenschutz/kundendaten-kundenkarten-und-bonusprogramme`
-- `recht/datenschutz/videoueberwachung-in-filialen`
-- `recht/energierecht/energievertrag-und-photovoltaik`
-- `recht/erbrecht/erbrecht-testament-und-pflichtteil`
-- `recht/familienrecht/trennung-scheidung-und-unterhalt`
-- `recht/geheimnisschutz/geschaeftsgeheimnisse-und-vertraulichkeitsvereinbarungen`
-- `recht/gesellschaftsrecht/due-diligence-dokumente-auswerten`
-- `recht/gesellschaftsrecht/gesellschaft-beschluesse-und-geschaeftsfuehrerhaftung`
-- `recht/immobilienrecht/immobilienkauf-und-grundbuch`
-- `recht/insolvenzrecht/insolvenzreife-und-sanierungspflichten`
-- `recht/kennzeichenrecht/markenrecht-und-kennzeichenstreit`
-- `recht/medizinrecht/behandlungsvertrag-und-arzthaftung`
-- `recht/mietrecht/barrierefreiheit-und-umbauten-durch-mieter`
-- `recht/mietrecht/datenschutz-und-bonitaetspruefung-bei-vermietung`
-- `recht/mietrecht/eigenbedarfskuendigung-und-haertefallwiderspruch`
-- `recht/mietrecht/ferienwohnung-zeitmietvertrag-und-moeblierte-wohnung`
-- `recht/mietrecht/filialmietvertrag-und-standortwechsel`
-- `recht/mietrecht/fristenlose-kuendigung-und-zahlungsrueckstand`
-- `recht/mietrecht/gewerberaummiete-und-pachtvertraege`
-- `recht/mietrecht/haustiere-und-nutzung-der-wohnung`
-- `recht/mietrecht/heizung-warmwasser-und-energieversorgung`
-- `recht/mietrecht/jobcenter-wohngeld-und-mietschulden`
-- `recht/mietrecht/kuendigung-durch-mieter-und-nachmieter`
-- `recht/mietrecht/laerm-stoerungen-und-nachbarschaftskonflikte`
-- `recht/mietrecht/mieterwechsel-trennung-und-tod-des-mieters`
-- `recht/mietrecht/mietkaution-und-rueckzahlung`
-- `recht/mietrecht/mietmangel-und-mietminderung`
-- `recht/mietrecht/mietpreisbremse-und-ueberhoehte-miete`
-- `recht/mietrecht/mietstreit-aussergerichtlich-loesen`
-- `recht/mietrecht/mietvertrag-pruefen-vor-unterschrift`
-- `recht/mietrecht/modernisierung-und-mieterhoehung`
-- `recht/mietrecht/nebenkostenabrechnung-und-belegeinsicht`
-- `recht/mietrecht/raeumungsklage-und-raeumungsschutz`
-- `recht/mietrecht/schimmel-feuchtigkeit-und-gesundheitsgefahren`
-- `recht/mietrecht/schoenheitsreparaturen-und-renovierungspflichten`
-- `recht/mietrecht/staffelmiete-indexmiete-und-mieterhoehung`
-- `recht/mietrecht/untermiete-und-wohngemeinschaft`
-- `recht/mietrecht/vermieterwechsel-und-verkauf-der-wohnung`
-- `recht/mietrecht/wohnraummiete-und-mieterhoehung`
-- `recht/mietrecht/wohnungsuebergabe-und-protokoll`
-- `recht/presserecht/bewertungen-und-reputationsschutz`
-- `recht/presserecht/krisenkommunikation-rueckruf-empoerung-datenpanne`
-- `recht/presserecht/presserecht-und-persoenlichkeitsrecht`
-- `recht/prozessrecht/beweis-und-anlagenverzeichnis-aufbauen`
-- `recht/prozessrecht/fristen-verjaehrung-und-zugang-pruefen`
-- `recht/prozessrecht/klageerwiderung-strategisch-strukturieren`
-- `recht/prozessrecht/mahnverfahren-und-forderungsdurchsetzung`
-- `recht/prozessrecht/prozessrisiko-und-vergleichswert-bewerten`
-- `recht/prozessrecht/schriftsatz-aus-akte-entwerfen`
-- `recht/prozessrecht/vergleichsvorschlag-und-erledigung-entwerfen`
-- `recht/prozessrecht/zivilprozess-klage-und-klageerwiderung`
-- `recht/regelkonformitaet/behoerdenschreiben-beantworten`
-- `recht/regelkonformitaet/geldwaeschepraevention-und-transparenzregister`
-- `recht/regelkonformitaet/hinweisgeberschutz-und-interne-meldestellen`
-- `recht/regelkonformitaet/interne-untersuchung-und-interviews-vorbereiten`
-- `recht/regelkonformitaet/leitungsorganisation-fuer-digitalregulierung`
-- `recht/regelkonformitaet/lieferkettensorgfalt-und-beschwerdeverfahren`
-- `recht/regelkonformitaet/produkthaftung-und-produktsicherheit`
-- `recht/regelkonformitaet/produktkennzeichnung-und-pflichtangaben`
-- `recht/regelkonformitaet/produktsicherheit-im-verkauf`
-- `recht/regelkonformitaet/richtlinie-gegen-recht-und-praxis-pruefen`
-- `recht/regelkonformitaet/software-und-algorithmische-produkthaftung-bewerten`
-- `recht/sozialrecht/sozialbescheid-und-widerspruch`
-- `recht/steuerrecht/betriebspruefung-und-einspruch`
-- `recht/strafrecht/ladendiebstahl-und-hausverbot`
-- `recht/strafrecht/retourenmissbrauch-und-kundenbetrug`
-- `recht/technologierecht/allgemeine-modelle-kuenstlicher-intelligenz-pruefen`
-- `recht/technologierecht/autonome-agenten-rechtlich-freigeben`
-- `recht/technologierecht/barrierefreiheit-im-handel-und-online-shop`
-- `recht/technologierecht/cloudwechsel-und-datenuebertragbarkeit-begleiten`
-- `recht/technologierecht/cyberresilienz-fuer-softwareprodukte-pruefen`
-- `recht/technologierecht/datenverordnung-und-datenzugangsrechte-pruefen`
-- `recht/technologierecht/digitale-dienste-und-plattformpflichten-pruefen`
-- `recht/technologierecht/einsatz-kuenstlicher-intelligenz-im-unternehmen-steuern`
-- `recht/technologierecht/grundrechtebewertung-fuer-algorithmische-systeme`
-- `recht/technologierecht/hochrisiko-systeme-rechtlich-freigeben`
-- `recht/technologierecht/informationssicherheit-und-meldepflichten`
-- `recht/technologierecht/kuenstliche-intelligenz-systeme-klassifizieren`
-- `recht/technologierecht/kuenstliche-intelligenz-verordnung-und-grundrechtebewertung`
-- `recht/technologierecht/marktplatz-und-plattformverkauf`
-- `recht/technologierecht/netzwerk-und-informationssicherheit-pruefen`
-- `recht/technologierecht/produktfreigabe-fuer-algorithmische-systeme`
-- `recht/technologierecht/regulatorisches-monitoring-fuer-digitalrecht`
-- `recht/technologierecht/sicherheitsvorfall-mit-informationstechnik-bearbeiten`
-- `recht/urheberrecht/offene-software-und-modelllizenzen-pruefen`
-- `recht/urheberrecht/trainingsdaten-und-urheberrecht-pruefen`
-- `recht/urheberrecht/urheberrecht-und-nutzungsrechte`
-- `recht/vereinsrecht/vereinssatzung-und-gemeinnuetzigkeit`
-- `recht/vergaberecht/vergabeverfahren-und-bieterfragen`
-- `recht/vertragsrecht/allgemeine-geschaeftsbedingungen-und-verbrauchervertraege`
-- `recht/vertragsrecht/beschaffung-algorithmischer-systeme-pruefen`
-- `recht/vertragsrecht/franchise-und-konzessionsflaechen`
-- `recht/vertragsrecht/klauseln-mandantenfreundlich-ueberarbeiten`
-- `recht/vertragsrecht/kundenbeschwerden-und-gewaehrleistung`
-- `recht/vertragsrecht/lieferantenvertrag-und-einkaufsbedingungen`
-- `recht/vertragsrecht/online-shop-und-verkauf-ueber-mehrere-kanaele`
-- `recht/vertragsrecht/rechtsaenderungen-im-vertragsbestand-pruefen`
-- `recht/vertragsrecht/softwaredienstvertraege-mit-algorithmischen-funktionen`
-- `recht/vertragsrecht/softwarevertrag-und-digitale-produkte`
-- `recht/vertragsrecht/unterschriftsfassung-und-vollzug-pruefen`
-- `recht/vertragsrecht/verhandlungsprotokoll-in-vertrag-ueberfuehren`
-- `recht/vertragsrecht/vertragsaenderungen-der-gegenseite-pruefen`
-- `recht/vertragsrecht/vertragsanlagen-und-bezugnahmen-pruefen`
-- `recht/vertragsrecht/vertragsklauseln-fuer-algorithmische-systeme`
-- `recht/vertragsrecht/vertragsrisiken-priorisieren`
-- `recht/vertragsrecht/vertragssynopse-erstellen`
-- `recht/vertragsrecht/vertragsverhandlung-vorbereiten`
-- `recht/vertragsrecht/vertragsversionen-vergleichen-und-aenderungen-bewerten`
-- `recht/wettbewerbsrecht/einzelhandelsabmahnungen-und-unterlassungserklaerungen`
-- `recht/wettbewerbsrecht/preisauszeichnung-und-rabattaktionen`
-- `recht/wettbewerbsrecht/umweltwerbung-und-nachhaltigkeitsaussagen`
-- `recht/wettbewerbsrecht/werbung-und-verkaufsaktionen`
-- `recht/wettbewerbsrecht/wettbewerbsrecht-und-abmahnungen`
-- `recht/zahlungsrecht/zahlungsdienstleister-gutscheine-und-geschenkkarten`
-
-## Prinzipien
-
-- Deutsche Ordnernamen und deutsche Arbeitsprodukte.
-- Beschreibende, ausgeschriebene Namen statt Schlagwort-Abkürzungen.
-- Ordner werden nach primärem Rechtsgebiet sortiert, nicht nach Branche, Persona oder Prompt-Anlass.
-- Gesetzestext, europäische Verordnungen und deutsche Aufsichtspraxis vor Kanzleimustern.
-- Genau eine `SKILL.md` je Fähigkeit; Quellen und Prüfstandard stehen direkt in der jeweiligen Datei.
+- Sachverhalt zuerst, Textbaustein zuletzt.
+- Deutsche und europäische Quellen vor amerikanischen Mustern.
+- Fakten, Annahmen, offene Punkte und Bewertung strikt getrennt.
+- Fristen, Form, Zuständigkeit, Beweise, Anlagen und Eskalation ausdrücklich geprüft.
+- Ergebnis als verwertbares Arbeitsprodukt, nicht als allgemeiner Ratgebertext.
 - Keine Scheinsicherheit, keine erfundenen Fundstellen, keine generische KI-Prosa.
-- Entwürfe mit Annahmen, offenen Punkten und menschlichem juristischem Prüfvermerk.
+
+## Wie Skills geschrieben werden
+
+Jeder Skill ist ein einzelner Ordner mit genau einer `SKILL.md`. Quellen, Prüfstandard und Arbeitsweise stehen direkt in dieser Datei. Es gibt keine zusätzlichen Quellenordner innerhalb eines Skills.
+
+Frontmatter bleibt knapp:
+
+```yaml
+---
+name: beschreibender-skill-name
+description: Klare Trigger und Einsatzfälle, damit die KI den Skill zuverlässig lädt.
+---
+```
+
+Der Body folgt grundsätzlich diesem Muster:
+
+- `Arbeitsstandard`: Rolle, Qualitätsniveau, Grenzen und Anti-Slop-Regeln.
+- `Quellen und Prüfstandard`: Quellenhierarchie und Aktualitätsvorbehalte.
+- `Was Top-Arbeit von Standardarbeit unterscheidet`: konkrete Qualitätsdifferenz.
+- `Fachspezifische Top-Practices`: was ein sehr guter Anwalt in genau diesem Thema anders macht.
+- `Arbeitsablauf`: zwingende Prüfreihenfolge.
+- `Ausgabe`: welche verwertbaren Produkte entstehen sollen.
+- `Qualitätskontrolle`: kurze Review-Fragen gegen Scheinsicherheit und Lücken.
+
+Gute Skill-Namen sind deutsch, beschreibend, kleingeschrieben und mit Bindestrichen verbunden. Ordner werden nach primärem Rechtsgebiet sortiert, nicht nach Branche, Persona oder Prompt-Anlass.
+
+## Bereits abgedeckte Bereiche
+
+Das Repository enthält aktuell 136 Rechts-Skills in deutschen Rechtsgebieten und anwaltlichen Arbeitsmethoden.
+
+Stark ausgebaute Bereiche:
+
+- `mietrecht`: Wohnraummiete, Mieterhöhung, Nebenkosten, Mängel, Kündigung, Kaution, Räumungsschutz und weitere Praxisprobleme.
+- `vertragsrecht`: Vertragsprüfung, Vertragsvergleich, Redline-/Delta-Analyse, Vertragsverhandlung, Klauseln, Software, Einkauf, Online-Shop und Lieferanten.
+- `technologierecht`: künstliche Intelligenz, Hochrisiko-Systeme, Grundrechtebewertung, Cyberresilienz, Datenzugang, Plattformpflichten und Produktfreigabe.
+- `regelkonformitaet`: Behördenkommunikation, interne Untersuchungen, Richtlinienprüfung, Hinweisgeber, Lieferketten, Geldwäsche, Produktsicherheit und Digitalregulierung.
+- `datenschutz`: Datenschutz-Folgenabschätzung, algorithmische Systeme, Auftragsverarbeitung, Betroffenenrechte, Datenpannen, Kundenprogramme und Videoüberwachung.
+- `prozessrecht`: Schriftsätze, Klageerwiderung, Beweise, Anlagen, Fristen, Vergleich, Prozessrisiko und Forderungsdurchsetzung.
+
+Weitere vorhandene Bereiche:
+
+- Arbeitsrecht, Gesellschaftsrecht, Urheberrecht, Wettbewerbsrecht, Presserecht, Strafrecht, Baurecht, Vergaberecht, Insolvenzrecht, Kennzeichenrecht, Erbrecht, Familienrecht, Immobilienrecht, Medizinrecht, Sozialrecht, Steuerrecht, Vereinsrecht, Energierecht, Bildungsrecht, Zahlungsrecht und Geheimnisschutz.
+
+Querschnittlich gibt es außerdem `anwaltliche-arbeitsmethoden` für Mandatsaufnahme, Mandantenmemos, Mandanten-E-Mails, Praxismemos und Risikoampeln.
+
+## Was noch möglich wäre
+
+Naheliegende nächste Ausbaustufen:
+
+- Mehr Litigation-Skills: Berufung, einstweiliger Rechtsschutz, Beweisbeschluss, Vergleichsverhandlung vor Gericht, Kostenfestsetzung.
+- Mehr Transaktionsarbeit: Kaufvertrag, Gesellschaftervereinbarung, Garantiekatalog, Closing, Post-Closing-Streit.
+- Mehr Unternehmensrecht: Geschäftsführerpflichten, Gesellschafterstreit, Kapitalmaßnahmen, Unternehmensnachfolge.
+- Mehr regulierte Branchen: Fintech, Gesundheit, Energie, Telekommunikation, Versicherungen, öffentliche Verwaltung.
+- Mehr Kanzlei-Workflows: Aktenchronologie, Dokumentenreview, Anlagenmapping, Mandatsrisiko, Honorar- und Scope-Klärung.
+- Mehr Inhouse-Workflows: Legal Intake, Vertragsfreigabeprozess, Policy Rollout, Audit-Vorbereitung, Rechtsänderungsmonitoring.
+- Mehr Verbraucher- und Bürgerprobleme: Reisen, Versicherung, Bank, Telekommunikation, Kaufrecht, Handwerker, Behördenbescheide.
+
+## Qualitätsregeln
+
+- Keine Skill-Datei darf bloß einen allgemeinen Ratgeber enthalten.
+- Jeder Skill muss ein konkretes anwaltliches Arbeitsprodukt erzwingen.
+- Jeder Skill muss sagen, was ein Top-Ergebnis von einem normalen Ergebnis unterscheidet.
+- Jede Bewertung muss offene Punkte, Annahmen und fehlende Nachweise sichtbar machen.
+- Dynamische Rechtsgebiete brauchen Aktualitätsprüfung und Quellenhierarchie.
+- Bei deutschen Nutzern wird deutscher juristischer Stil bevorzugt: präzise, prüfungsfest, mandantenfähig.
+
+## Struktur
+
+Der Einstieg in die Rechts-Skills liegt unter [`recht/`](recht/). Die Unterordner entsprechen dem primären Rechtsgebiet.
+
+Beispiele:
+
+- `recht/vertragsrecht/vertragsversionen-vergleichen-und-aenderungen-bewerten`
+- `recht/prozessrecht/schriftsatz-aus-akte-entwerfen`
+- `recht/datenschutz/datenschutz-folgenabschaetzung`
+- `recht/technologierecht/kuenstliche-intelligenz-systeme-klassifizieren`
+- `recht/anwaltliche-arbeitsmethoden/mandantenmemo-und-entscheidungsvorlage-erstellen`
