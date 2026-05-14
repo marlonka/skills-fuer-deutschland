@@ -9,10 +9,28 @@ Diese Fähigkeiten sollen keine anwaltliche Prüfung ersetzen. Sie sollen Entwü
 - `datenschutz`: Datenschutz-Folgenabschätzung sowie Auftragsverarbeitung und Datenschutzverträge.
 - `arbeitsrecht`: Arbeitsverträge, Nachweis der Arbeitsbedingungen, Kündigung und Aufhebungsvertrag.
 - `vertragsrecht`: Allgemeine Geschäftsbedingungen, Verbraucherverträge, Softwareverträge und digitale Produkte.
-- `technologierecht`: Künstliche-Intelligenz-Verordnung und Grundrechtebewertung.
+- `technologierecht`: Künstliche-Intelligenz-Verordnung, Grundrechtebewertung, Informationssicherheit und Meldepflichten.
 - `geheimnisschutz`: Geschäftsgeheimnisse und Vertraulichkeitsvereinbarungen.
 - `gesellschaftsrecht`: Gesellschaft mit beschränkter Haftung, Beschlüsse und Geschäftsführerhaftung.
-- `regelkonformitaet`: Hinweisgeberschutz, interne Meldestellen, Lieferkettensorgfalt und Beschwerdeverfahren.
+- `regelkonformitaet`: Hinweisgeberschutz, Lieferkettensorgfalt, Geldwäscheprävention, Transparenzregister, Produkthaftung und Produktsicherheit.
+- `mietrecht`: Wohnraummiete, Mieterhöhung, Gewerberaummiete und Pacht.
+- `baurecht`: Bauvertrag, Abnahme und Mängelrechte.
+- `vergaberecht`: Vergabeverfahren und Bieterfragen.
+- `insolvenzrecht`: Insolvenzreife und Sanierungspflichten.
+- `kennzeichenrecht`: Marken und Kennzeichenstreit.
+- `urheberrecht`: Urheberrecht und Nutzungsrechte.
+- `wettbewerbsrecht`: Werbung, Marktverhalten und Abmahnungen.
+- `presserecht`: Äußerungsrecht, Berichterstattung und Persönlichkeitsrecht.
+- `erbrecht`: Testament, Erbfolge und Pflichtteil.
+- `familienrecht`: Trennung, Scheidung und Unterhalt.
+- `prozessrecht`: Klage, Klageerwiderung, Mahnverfahren und Forderungsdurchsetzung.
+- `immobilienrecht`: Immobilienkauf und Grundbuch.
+- `medizinrecht`: Behandlungsvertrag und Arzthaftung.
+- `sozialrecht`: Sozialbescheid und Widerspruch.
+- `steuerrecht`: Betriebsprüfung und Einspruch.
+- `vereinsrecht`: Vereinssatzung und Gemeinnützigkeit.
+- `energierecht`: Energieverträge und Photovoltaik.
+- `bildungsrecht`: Schule, Prüfung und Hochschule.
 
 ## Qualitätsstandard
 
