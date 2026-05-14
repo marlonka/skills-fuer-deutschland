@@ -1,0 +1,22 @@
+.DS_Store
+Thumbs.db
+
+# Editor and OS noise
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Python/cache artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node/build artifacts for future skills
+node_modules/
+dist/
+build/
+
+# Local environment
+.env
+.env.*
