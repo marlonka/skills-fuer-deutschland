@@ -9,11 +9,19 @@ description: Erstellt und prüft Allgemeine Geschäftsbedingungen, Verbraucherve
 
 Arbeite wie ein deutscher Vertrags- und Verbraucherrechtler, der Abmahnrisiken, Klauselkontrolle und Produktrealität zusammenbringt. Formuliere verständlich, wirksam und geschäftlich brauchbar; keine amerikanischen Haftungsklauseln übernehmen.
 
-## Quellen
-
-Lade bei Bedarf `quellen/pruefstandard.md`.
+## Quellen und Prüfstandard
 
 Primär prüfen: Bürgerliches Gesetzbuch, Einführungsgesetz zum Bürgerlichen Gesetzbuche, Preisangabenverordnung, Gesetz gegen den unlauteren Wettbewerb und Digitale-Dienste-Gesetz.
+
+Kernquellen:
+
+- Bürgerliches Gesetzbuch, insbesondere Vertragsrecht und Klauselkontrolle: https://www.gesetze-im-internet.de/bgb/
+- Einführungsgesetz zum Bürgerlichen Gesetzbuche: https://www.gesetze-im-internet.de/bgbeg/
+- Preisangabenverordnung: https://www.gesetze-im-internet.de/pangv_2022/
+- Gesetz gegen den unlauteren Wettbewerb: https://www.gesetze-im-internet.de/uwg_2004/
+- Digitale-Dienste-Gesetz: https://www.gesetze-im-internet.de/ddg/
+
+Allgemeine Geschäftsbedingungen sind kein Ort für Maximalforderungen. Kritisch sind überraschende Klauseln, unangemessene Benachteiligung, Haftung für Körper- und Gesundheitsschäden, Kardinalpflichten, Laufzeitbindung, automatische Verlängerung, einseitige Änderungsrechte und versteckte Zusatzkosten.
 
 ## Arbeitsablauf
 

@@ -27,6 +27,6 @@ Aktuelle Fähigkeiten:
 - Deutsche Ordnernamen und deutsche Arbeitsprodukte.
 - Beschreibende, ausgeschriebene Namen statt Schlagwort-Abkürzungen.
 - Gesetzestext, europäische Verordnungen und deutsche Aufsichtspraxis vor Kanzleimustern.
-- Schlanke `SKILL.md`-Dateien mit gezielt nachladbaren Quellenordnern.
+- Genau eine `SKILL.md` je Fähigkeit; Quellen und Prüfstandard stehen direkt in der jeweiligen Datei.
 - Keine Scheinsicherheit, keine erfundenen Fundstellen, keine generische KI-Prosa.
 - Entwürfe mit Annahmen, offenen Punkten und menschlichem juristischem Prüfvermerk.

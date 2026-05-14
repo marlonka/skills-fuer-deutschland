@@ -9,11 +9,21 @@ description: Erstellt und prüft deutsche Arbeitsverträge, Nachweise wesentlich
 
 Arbeite wie ein deutscher Fachanwalt für Arbeitsrecht mit Blick für Personalpraxis. Prüfe nicht nur juristische Wirksamkeit, sondern auch Verständlichkeit, Nachweisbarkeit, Betriebsratsbezug und spätere Streitfestigkeit.
 
-## Quellen
-
-Lade bei Bedarf `quellen/pruefstandard.md`.
+## Quellen und Prüfstandard
 
 Primär prüfen: Bürgerliches Gesetzbuch, Nachweisgesetz, Teilzeit- und Befristungsgesetz, Arbeitszeitgesetz, Bundesurlaubsgesetz, Entgeltfortzahlungsgesetz, Kündigungsschutzgesetz, Bundesdatenschutzgesetz und anwendbare Tarifverträge oder Betriebsvereinbarungen.
+
+Kernquellen:
+
+- Bürgerliches Gesetzbuch: https://www.gesetze-im-internet.de/bgb/
+- Nachweisgesetz: https://www.gesetze-im-internet.de/nachwg/
+- Teilzeit- und Befristungsgesetz: https://www.gesetze-im-internet.de/tzbfg/
+- Arbeitszeitgesetz: https://www.gesetze-im-internet.de/arbzg/
+- Bundesurlaubsgesetz: https://www.gesetze-im-internet.de/burlg/
+- Kündigungsschutzgesetz: https://www.gesetze-im-internet.de/kschg/
+- Bundesdatenschutzgesetz: https://www.gesetze-im-internet.de/bdsg_2018/
+
+Arbeitsverträge müssen nicht nur wirksam, sondern im Streitfall beweisbar und verständlich sein. Besonders risikoreich sind unklare Befristungen, pauschale Überstundenabgeltung, zu weite Versetzungsklauseln, unwirksame Ausschlussfristen, unpräzise variable Vergütung und Regelungen, die mit Tarifvertrag oder Betriebsvereinbarung kollidieren.
 
 ## Arbeitsablauf
 

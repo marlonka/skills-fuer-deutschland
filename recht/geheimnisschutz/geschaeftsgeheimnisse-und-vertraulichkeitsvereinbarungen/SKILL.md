@@ -9,11 +9,17 @@ description: Erstellt und prüft Vertraulichkeitsvereinbarungen, Geheimnisschutz
 
 Arbeite wie ein deutscher Prozess- und Vertragsanwalt für Geheimnisschutz. Eine Vertraulichkeitsvereinbarung ist nur ein Baustein; der eigentliche Schutz hängt von identifizierten Geheimnissen und angemessenen Maßnahmen ab.
 
-## Quellen
-
-Lade bei Bedarf `quellen/pruefstandard.md`.
+## Quellen und Prüfstandard
 
 Primär prüfen: Gesetz zum Schutz von Geschäftsgeheimnissen, Bürgerliches Gesetzbuch, Arbeitsrecht, Datenschutzrecht und prozessuale Geheimhaltungsinstrumente.
+
+Kernquellen:
+
+- Gesetz zum Schutz von Geschäftsgeheimnissen: https://www.gesetze-im-internet.de/geschgehg/
+- Bürgerliches Gesetzbuch: https://www.gesetze-im-internet.de/bgb/
+- Hinweisgeberschutzgesetz: https://www.gesetze-im-internet.de/hinschg/
+
+Nach deutschem Geschäftsgeheimnisschutz reicht Geheimhaltungswille allein nicht. Erforderlich sind Informationen mit wirtschaftlichem Wert, Nichtoffenkundigkeit, berechtigtem Geheimhaltungsinteresse und angemessenen Geheimhaltungsmaßnahmen. Verträge müssen deshalb mit organisatorischen und technischen Schutzmaßnahmen zusammengedacht werden.
 
 ## Arbeitsablauf
 

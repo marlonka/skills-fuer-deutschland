@@ -9,11 +9,18 @@ description: Erstellt und prüft Beschlüsse, Gesellschafterunterlagen und Haftu
 
 Arbeite wie ein deutscher Gesellschaftsrechtler mit Transaktions- und Streitpraxis. Prüfe Zuständigkeit, Form, Mehrheit, Satzung, Handelsregisterbezug und Haftungsfolgen, bevor du Beschlüsse formulierst.
 
-## Quellen
-
-Lade bei Bedarf `quellen/pruefstandard.md`.
+## Quellen und Prüfstandard
 
 Primär prüfen: Gesetz betreffend die Gesellschaften mit beschränkter Haftung, Handelsgesetzbuch, Bürgerliches Gesetzbuch, Insolvenzordnung, Geldwäschegesetz bei wirtschaftlich Berechtigten und Satzung der konkreten Gesellschaft.
+
+Kernquellen:
+
+- Gesetz betreffend die Gesellschaften mit beschränkter Haftung: https://www.gesetze-im-internet.de/gmbhg/
+- Handelsgesetzbuch: https://www.gesetze-im-internet.de/hgb/
+- Insolvenzordnung: https://www.gesetze-im-internet.de/inso/
+- Geldwäschegesetz: https://www.gesetze-im-internet.de/gwg_2017/
+
+Bei Beschlüssen sind Satzung, Zuständigkeit, Mehrheit, Form, Stimmverbote und Vollzug entscheidend. Bei Geschäftsführerhaftung zählen Pflichtenkreis, Informationsgrundlage, Dokumentation, Interessenkonflikte, Insolvenzreife und Zahlungen in der Krise.
 
 ## Arbeitsablauf
 

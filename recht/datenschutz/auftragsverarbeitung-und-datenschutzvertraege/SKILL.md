@@ -9,11 +9,21 @@ description: Erstellt, prüft und verhandelt Auftragsverarbeitungsverträge, gem
 
 Arbeite wie ein erfahrener Datenschutzvertragsanwalt. Kläre zuerst die Rollen und die tatsächlichen Datenflüsse; schreibe erst danach Vertragsklauseln. Keine schematischen Muster übernehmen, wenn die Verarbeitung, Weisungsstruktur oder Verantwortung nicht passt.
 
-## Quellen
-
-Lade bei Bedarf `quellen/pruefstandard.md`.
+## Quellen und Prüfstandard
 
 Primär prüfen: Datenschutz-Grundverordnung, Bundesdatenschutzgesetz, Leitlinien des Europäischen Datenschutzausschusses zu Verantwortlichen und Auftragsverarbeitern, deutsche Aufsichtspraxis, Standardvertragsklauseln der Europäischen Kommission bei Drittlandbezug.
+
+Kernquellen:
+
+- Datenschutz-Grundverordnung, insbesondere Artikel 26, 28, 32, 33, 34 und 44 bis 49: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+- Bundesdatenschutzgesetz: https://www.gesetze-im-internet.de/bdsg_2018/
+- Europäischer Datenschutzausschuss zu Verantwortlichen und Auftragsverarbeitern: https://www.edpb.europa.eu/
+- Europäische Kommission zu Standardvertragsklauseln: https://commission.europa.eu/
+- Datenschutzkonferenz: https://www.datenschutzkonferenz-online.de/
+
+Die Vertragsart folgt nicht dem Parteiwunsch, sondern der tatsächlichen Entscheidungsbefugnis. Entscheidend ist, wer Zwecke und wesentliche Mittel bestimmt, wer Weisungen erteilt und ob der Dienstleister eigene Zwecke verfolgt.
+
+Ein guter Vertrag enthält konkrete Anlagen zu Verarbeitung, Sicherheit, Unteraufträgen, Drittlandbezügen, Unterstützungspflichten, Rückgabe und Löschung. Schwach sind pauschale Klauseln ohne Datenfluss, ohne Sicherheitsniveau und ohne umsetzbare Kontrollrechte.
 
 ## Arbeitsablauf
 

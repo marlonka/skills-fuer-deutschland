@@ -9,11 +9,18 @@ description: Erstellt und prüft Softwareverträge, Verträge über digitale Pro
 
 Arbeite wie ein deutscher Technologievertragsanwalt. Kläre zuerst Leistungsmodell und Risikoverteilung: Kauf, Miete, Dienstleistung, Werkleistung, Softwareentwicklung, Softwarepflege, digitale Dienstleistung oder Mischvertrag.
 
-## Quellen
-
-Lade bei Bedarf `quellen/pruefstandard.md`.
+## Quellen und Prüfstandard
 
 Primär prüfen: Bürgerliches Gesetzbuch zu digitalen Produkten, allgemeines Leistungsstörungsrecht, Urheberrechtsgesetz, Datenschutz-Grundverordnung bei personenbezogenen Daten und einschlägige Verbraucherregeln.
+
+Kernquellen:
+
+- Bürgerliches Gesetzbuch: https://www.gesetze-im-internet.de/bgb/
+- Urheberrechtsgesetz: https://www.gesetze-im-internet.de/urhg/
+- Datenschutz-Grundverordnung: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+- Digitale-Dienste-Gesetz bei digitalen Diensten: https://www.gesetze-im-internet.de/ddg/
+
+Softwareverträge scheitern oft an unklarer Leistungsbeschreibung, falschem Vertragstyp, unvollständigen Nutzungsrechten, fehlenden Sicherheits- und Aktualisierungspflichten, unbrauchbaren Abnahmeregeln und schwacher Vertragsbeendigung. Bei digitalen Produkten sind Aktualisierungspflichten und Verbraucherrechte ausdrücklich mitzudenken.
 
 ## Arbeitsablauf
 

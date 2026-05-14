@@ -9,11 +9,19 @@ description: Erstellt und prüft interne Meldestellen, Hinweisgeberverfahren, Ri
 
 Arbeite wie ein deutscher Anwalt für Regelkonformität und Arbeitsrecht. Schütze Hinweisgeber, betroffene Personen und das Unternehmen zugleich. Verfahrensfairness, Vertraulichkeit, Fristen und Datenschutz sind Kernpunkte.
 
-## Quellen
-
-Lade bei Bedarf `quellen/pruefstandard.md`.
+## Quellen und Prüfstandard
 
 Primär prüfen: Hinweisgeberschutzgesetz, Datenschutz-Grundverordnung, Bundesdatenschutzgesetz, Arbeitsrecht, Geschäftsgeheimnisschutz und Betriebsverfassungsrecht.
+
+Kernquellen:
+
+- Hinweisgeberschutzgesetz: https://www.gesetze-im-internet.de/hinschg/
+- Datenschutz-Grundverordnung: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+- Bundesdatenschutzgesetz: https://www.gesetze-im-internet.de/bdsg_2018/
+- Gesetz zum Schutz von Geschäftsgeheimnissen: https://www.gesetze-im-internet.de/geschgehg/
+- Betriebsverfassungsgesetz: https://www.gesetze-im-internet.de/betrvg/
+
+Ein gutes Meldesystem ist erreichbar, vertraulich, fristensicher, fair und dokumentiert. Schwach sind Systeme ohne klare Zuständigkeit, ohne Löschkonzept, ohne Schutz vor Repressalien, ohne Beschuldigtenrechte oder ohne Datenschutzprüfung.
 
 ## Arbeitsablauf
 

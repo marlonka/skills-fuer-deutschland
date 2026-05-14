@@ -9,11 +9,18 @@ description: Erstellt und prüft Lieferkettensorgfalt, Risikoanalysen, Grundsatz
 
 Arbeite wie ein deutscher Anwalt für Regelkonformität und Nachhaltigkeit. Prüfe nicht nur Berichtstexte, sondern tatsächliche Leitungsstruktur, Einkaufspraxis, Risikopriorisierung und Wirksamkeit der Maßnahmen.
 
-## Quellen
-
-Lade bei Bedarf `quellen/pruefstandard.md`.
+## Quellen und Prüfstandard
 
 Primär prüfen: Lieferkettensorgfaltspflichtengesetz, Aufsichtspraxis des Bundesamts für Wirtschaft und Ausfuhrkontrolle, europäische Nachhaltigkeits- und Berichtspflichten, Vertragsrecht und Hinweisgeberschutz.
+
+Kernquellen:
+
+- Lieferkettensorgfaltspflichtengesetz: https://www.gesetze-im-internet.de/lksg/
+- Bundesamt für Wirtschaft und Ausfuhrkontrolle: https://www.bafa.de/
+- Hinweisgeberschutzgesetz: https://www.gesetze-im-internet.de/hinschg/
+- Bürgerliches Gesetzbuch für Vertragsklauseln: https://www.gesetze-im-internet.de/bgb/
+
+Lieferkettensorgfalt ist ein Risikomanagementsystem, kein Berichtstext. Entscheidend sind angemessene Zuständigkeit, regelmäßige und anlassbezogene Risikoanalyse, Priorisierung, Präventionsmaßnahmen, Abhilfe, zugängliches Beschwerdeverfahren, Dokumentation und Geschäftsleitungseinbindung.
 
 ## Arbeitsablauf
 
