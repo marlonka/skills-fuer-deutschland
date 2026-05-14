@@ -1,33 +1,32 @@
 # Skills für Deutschland
 
-Deutsch-first Skills für KI-Assistenten, die auf deutsche Anwendungsfälle, deutsches Recht und europäische Regulierung ausgerichtet sind.
+Deutsch-first Skills für KI-Assistenten, die deutsche Arbeit in deutschen Rechts-, Wirtschafts- und Verwaltungskontexten besser erledigen sollen.
 
-Viele öffentliche Skill-Sammlungen sind US-zentriert, englisch formuliert oder zu generisch für anspruchsvolle deutsche Workflows. Dieses Repository baut Skills, die in deutschen Kontexten direkt brauchbare Entwürfe, Prüfungen und Arbeitsergebnisse erzeugen sollen.
+Viele öffentliche Skill-Sammlungen sind englisch, amerikanisch geprägt oder zu allgemein für deutsche Nutzer. Dieses Repository sammelt Fähigkeiten, die deutsche Quellen, deutsche Begriffe, deutsche Risiken und deutsche Arbeitsprodukte ernst nehmen.
 
-## Startbereich: Legal
+## Rechtsbereich
 
-Der erste Qualitätsanker ist ein Premium-Skill für Datenschutz-Folgenabschätzungen:
+Der erste Schwerpunkt ist Recht für deutsche Organisationen, Kanzleien, Datenschutzbeauftragte, Personalabteilungen, Geschäftsführungen, Einkaufsabteilungen und Produktteams.
 
-- `legal/privacy/dsfa-premium`
+Aktuelle Fähigkeiten:
 
-Der Skill ist für deutsche Datenschutzjuristen, Inhouse Legal, Datenschutzbeauftragte, Kanzleien und KI-Teams gedacht, die belastbare DSFA-Entwürfe und Reviews brauchen.
+- `recht/datenschutz/datenschutz-folgenabschaetzung`
+- `recht/datenschutz/auftragsverarbeitung-und-datenschutzvertraege`
+- `recht/arbeitsrecht/arbeitsvertrag-und-nachweis-der-arbeitsbedingungen`
+- `recht/arbeitsrecht/kuendigung-und-aufhebungsvertrag-im-arbeitsverhaeltnis`
+- `recht/vertragsrecht/allgemeine-geschaeftsbedingungen-und-verbrauchervertraege`
+- `recht/vertragsrecht/softwarevertrag-und-digitale-produkte`
+- `recht/technologierecht/kuenstliche-intelligenz-verordnung-und-grundrechtebewertung`
+- `recht/geheimnisschutz/geschaeftsgeheimnisse-und-vertraulichkeitsvereinbarungen`
+- `recht/gesellschaftsrecht/gesellschaft-beschluesse-und-geschaeftsfuehrerhaftung`
+- `recht/regelkonformitaet/hinweisgeberschutz-und-interne-meldestellen`
+- `recht/regelkonformitaet/lieferkettensorgfalt-und-beschwerdeverfahren`
 
 ## Prinzipien
 
-- Deutsch-first, aber kompatibel mit internationalen KI-Modellen.
-- Deutsche und EU-Quellen vor US-Mustern.
-- Schlanke `SKILL.md`-Dateien mit nachladbaren Referenzen.
-- Keine Scheinsicherheit, keine erfundenen Quellen, keine generische KI-Prosa.
-- Professionelle Entwürfe mit klaren Annahmen, offenen Punkten und Review-Gates.
-
-## Struktur
-
-```text
-legal/
-  privacy/
-    dsfa-premium/
-      SKILL.md
-      references/
-```
-
-Weitere Bereiche werden iterativ ergänzt.
+- Deutsche Ordnernamen und deutsche Arbeitsprodukte.
+- Beschreibende, ausgeschriebene Namen statt Schlagwort-Abkürzungen.
+- Gesetzestext, europäische Verordnungen und deutsche Aufsichtspraxis vor Kanzleimustern.
+- Schlanke `SKILL.md`-Dateien mit gezielt nachladbaren Quellenordnern.
+- Keine Scheinsicherheit, keine erfundenen Fundstellen, keine generische KI-Prosa.
+- Entwürfe mit Annahmen, offenen Punkten und menschlichem juristischem Prüfvermerk.

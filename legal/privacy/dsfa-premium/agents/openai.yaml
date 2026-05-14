@@ -1,4 +1,0 @@
-interface:
-  display_name: "DSFA Premium"
-  short_description: "DSFA nach deutschem Datenschutzrecht"
-  default_prompt: "Erstelle eine prüfungsfeste Datenschutz-Folgenabschätzung für den beschriebenen Verarbeitungsvorgang."
