@@ -1,10 +1,18 @@
 # Skills für Deutschland
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Deutsch-first Skills für KI-Assistenten, die deutsche Arbeit in deutschen Rechts-, Wirtschafts- und Verwaltungskontexten besser erledigen sollen.
 
 Viele öffentliche Skill-Sammlungen sind englisch, amerikanisch geprägt oder zu allgemein für deutsche Nutzer. Dieses Repository sammelt Fähigkeiten, die deutsche Quellen, deutsche Begriffe, deutsche Risiken und deutsche Arbeitsprodukte ernst nehmen.
 
 Der erste Schwerpunkt ist Recht: Skills sollen Entwürfe, Prüfvermerke, Lückenlisten, Risikoanalysen, Vertragsvergleiche, Verhandlungsunterlagen und Entscheidungsvorlagen so vorbereiten, dass erfahrene Juristen schneller zu belastbaren Ergebnissen kommen.
+
+## Status
+
+Das Repository ist öffentlich und steht unter der MIT-Lizenz. Beiträge sind willkommen, wenn sie den Qualitätsstandard des Projekts ernst nehmen.
+
+Wichtig: Die Skills ersetzen keine anwaltliche Prüfung. Sie sollen KI-Assistenten zu besseren Entwürfen, Prüfstrukturen und Arbeitsprodukten führen, die von qualifizierten Personen geprüft werden müssen.
 
 ## Ziel
 
@@ -93,3 +101,13 @@ Beispiele:
 - `recht/datenschutz/datenschutz-folgenabschaetzung`
 - `recht/technologierecht/kuenstliche-intelligenz-systeme-klassifizieren`
 - `recht/anwaltliche-arbeitsmethoden/mandantenmemo-und-entscheidungsvorlage-erstellen`
+
+## Mitwirken
+
+Bitte lies vor einem Beitrag [`CONTRIBUTING.md`](CONTRIBUTING.md). Neue Skills sollen echte deutsche Arbeitsprobleme lösen, sauber einsortiert sein und genau eine `SKILL.md` enthalten.
+
+Für sicherheitsrelevante oder sensible Themen siehe [`SECURITY.md`](SECURITY.md). Bitte keine echten Mandanteninformationen, personenbezogenen Daten, Zugangsdaten oder vertraulichen Vertragsinhalte in Issues oder Pull Requests posten.
+
+## Lizenz
+
+Dieses Projekt steht unter der [`MIT License`](LICENSE).

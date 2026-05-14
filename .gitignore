@@ -1,22 +1,26 @@
+# Operating system files
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Editor and OS noise
+# Editor files
 .vscode/
 .idea/
 *.swp
-*.tmp
-
-# Python/cache artifacts
-__pycache__/
-*.py[cod]
-.pytest_cache/
-
-# Node/build artifacts for future skills
-node_modules/
-dist/
-build/
+*.swo
 
 # Local environment
 .env
 .env.*
+!.env.example
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
