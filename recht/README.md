@@ -13,7 +13,7 @@ Diese Fähigkeiten sollen keine anwaltliche Prüfung ersetzen. Sie sollen Entwü
 - `geheimnisschutz`: Geschäftsgeheimnisse und Vertraulichkeitsvereinbarungen.
 - `gesellschaftsrecht`: Gesellschaft mit beschränkter Haftung, Beschlüsse und Geschäftsführerhaftung.
 - `regelkonformitaet`: Hinweisgeberschutz, Lieferkettensorgfalt, Geldwäscheprävention, Transparenzregister, Produkthaftung und Produktsicherheit.
-- `mietrecht`: Wohnraummiete, Mieterhöhung, Gewerberaummiete und Pacht.
+- `mietrecht`: Wohnraummiete, Mieterhöhung, Mängel, Kaution, Nebenkosten, Kündigung, Modernisierung, Mietpreisbremse, Räumungsschutz und weitere mieterseitige Praxisprobleme.
 - `baurecht`: Bauvertrag, Abnahme und Mängelrechte.
 - `vergaberecht`: Vergabeverfahren und Bieterfragen.
 - `insolvenzrecht`: Insolvenzreife und Sanierungspflichten.
