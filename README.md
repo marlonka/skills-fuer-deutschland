@@ -10,6 +10,11 @@ Der erste Schwerpunkt ist Recht für deutsche Organisationen, Kanzleien, Datensc
 
 Aktuelle Fähigkeiten:
 
+- `recht/anwaltliche-arbeitsmethoden/mandanten-email-mit-empfehlung-entwerfen`
+- `recht/anwaltliche-arbeitsmethoden/mandantenmemo-und-entscheidungsvorlage-erstellen`
+- `recht/anwaltliche-arbeitsmethoden/mandatsanfrage-strukturieren-und-luecken-klaeren`
+- `recht/anwaltliche-arbeitsmethoden/rechtsgutachten-in-praxismemo-uebersetzen`
+- `recht/anwaltliche-arbeitsmethoden/risikoampel-fuer-geschaeftsleitung-erstellen`
 - `recht/arbeitsrecht/algorithmische-systeme-im-beschaeftigtenkontext-pruefen`
 - `recht/arbeitsrecht/arbeitsvertrag-und-nachweis-der-arbeitsbedingungen`
 - `recht/arbeitsrecht/arbeitszeit-schichtplaene-und-sonntagsarbeit-im-handel`
@@ -33,6 +38,7 @@ Aktuelle Fähigkeiten:
 - `recht/erbrecht/erbrecht-testament-und-pflichtteil`
 - `recht/familienrecht/trennung-scheidung-und-unterhalt`
 - `recht/geheimnisschutz/geschaeftsgeheimnisse-und-vertraulichkeitsvereinbarungen`
+- `recht/gesellschaftsrecht/due-diligence-dokumente-auswerten`
 - `recht/gesellschaftsrecht/gesellschaft-beschluesse-und-geschaeftsfuehrerhaftung`
 - `recht/immobilienrecht/immobilienkauf-und-grundbuch`
 - `recht/insolvenzrecht/insolvenzreife-und-sanierungspflichten`
@@ -69,15 +75,24 @@ Aktuelle Fähigkeiten:
 - `recht/presserecht/bewertungen-und-reputationsschutz`
 - `recht/presserecht/krisenkommunikation-rueckruf-empoerung-datenpanne`
 - `recht/presserecht/presserecht-und-persoenlichkeitsrecht`
+- `recht/prozessrecht/beweis-und-anlagenverzeichnis-aufbauen`
+- `recht/prozessrecht/fristen-verjaehrung-und-zugang-pruefen`
+- `recht/prozessrecht/klageerwiderung-strategisch-strukturieren`
 - `recht/prozessrecht/mahnverfahren-und-forderungsdurchsetzung`
+- `recht/prozessrecht/prozessrisiko-und-vergleichswert-bewerten`
+- `recht/prozessrecht/schriftsatz-aus-akte-entwerfen`
+- `recht/prozessrecht/vergleichsvorschlag-und-erledigung-entwerfen`
 - `recht/prozessrecht/zivilprozess-klage-und-klageerwiderung`
+- `recht/regelkonformitaet/behoerdenschreiben-beantworten`
 - `recht/regelkonformitaet/geldwaeschepraevention-und-transparenzregister`
 - `recht/regelkonformitaet/hinweisgeberschutz-und-interne-meldestellen`
+- `recht/regelkonformitaet/interne-untersuchung-und-interviews-vorbereiten`
 - `recht/regelkonformitaet/leitungsorganisation-fuer-digitalregulierung`
 - `recht/regelkonformitaet/lieferkettensorgfalt-und-beschwerdeverfahren`
 - `recht/regelkonformitaet/produkthaftung-und-produktsicherheit`
 - `recht/regelkonformitaet/produktkennzeichnung-und-pflichtangaben`
 - `recht/regelkonformitaet/produktsicherheit-im-verkauf`
+- `recht/regelkonformitaet/richtlinie-gegen-recht-und-praxis-pruefen`
 - `recht/regelkonformitaet/software-und-algorithmische-produkthaftung-bewerten`
 - `recht/sozialrecht/sozialbescheid-und-widerspruch`
 - `recht/steuerrecht/betriebspruefung-und-einspruch`
@@ -109,12 +124,22 @@ Aktuelle Fähigkeiten:
 - `recht/vertragsrecht/allgemeine-geschaeftsbedingungen-und-verbrauchervertraege`
 - `recht/vertragsrecht/beschaffung-algorithmischer-systeme-pruefen`
 - `recht/vertragsrecht/franchise-und-konzessionsflaechen`
+- `recht/vertragsrecht/klauseln-mandantenfreundlich-ueberarbeiten`
 - `recht/vertragsrecht/kundenbeschwerden-und-gewaehrleistung`
 - `recht/vertragsrecht/lieferantenvertrag-und-einkaufsbedingungen`
 - `recht/vertragsrecht/online-shop-und-verkauf-ueber-mehrere-kanaele`
+- `recht/vertragsrecht/rechtsaenderungen-im-vertragsbestand-pruefen`
 - `recht/vertragsrecht/softwaredienstvertraege-mit-algorithmischen-funktionen`
 - `recht/vertragsrecht/softwarevertrag-und-digitale-produkte`
+- `recht/vertragsrecht/unterschriftsfassung-und-vollzug-pruefen`
+- `recht/vertragsrecht/verhandlungsprotokoll-in-vertrag-ueberfuehren`
+- `recht/vertragsrecht/vertragsaenderungen-der-gegenseite-pruefen`
+- `recht/vertragsrecht/vertragsanlagen-und-bezugnahmen-pruefen`
 - `recht/vertragsrecht/vertragsklauseln-fuer-algorithmische-systeme`
+- `recht/vertragsrecht/vertragsrisiken-priorisieren`
+- `recht/vertragsrecht/vertragssynopse-erstellen`
+- `recht/vertragsrecht/vertragsverhandlung-vorbereiten`
+- `recht/vertragsrecht/vertragsversionen-vergleichen-und-aenderungen-bewerten`
 - `recht/wettbewerbsrecht/einzelhandelsabmahnungen-und-unterlassungserklaerungen`
 - `recht/wettbewerbsrecht/preisauszeichnung-und-rabattaktionen`
 - `recht/wettbewerbsrecht/umweltwerbung-und-nachhaltigkeitsaussagen`

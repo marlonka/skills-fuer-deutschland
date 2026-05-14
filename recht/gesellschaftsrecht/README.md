@@ -1,3 +1,3 @@
 # Gesellschaftsrecht
 
-Skills für Gesellschaft mit beschränkter Haftung, Gesellschafterbeschlüsse, Geschäftsführung, Geschäftsführerhaftung und gesellschaftsrechtliche Vollzugsfragen.
+Skills für Gesellschaften, Beschlüsse, Geschäftsführerhaftung, Beteiligungen, Transaktionen und Legal Due Diligence.

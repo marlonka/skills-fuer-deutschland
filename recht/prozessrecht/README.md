@@ -1,3 +1,3 @@
 # Prozessrecht
 
-Skills für Klage, Klageerwiderung, Beweisstrategie, Vergleich, Mahnverfahren, Forderungsdurchsetzung und Zwangsvollstreckung.
+Skills für Zivilprozess, Klage, Klageerwiderung, Schriftsätze, Fristen, Beweise, Anlagen, Vergleich und Forderungsdurchsetzung.
