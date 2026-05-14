@@ -23,6 +23,31 @@ Kernquellen:
 
 Ein gutes Meldesystem ist erreichbar, vertraulich, fristensicher, fair und dokumentiert. Schwach sind Systeme ohne klare Zuständigkeit, ohne Löschkonzept, ohne Schutz vor Repressalien, ohne Beschuldigtenrechte oder ohne Datenschutzprüfung.
 
+## Was Top-Arbeit von Standardarbeit unterscheidet
+
+Ein normales Ergebnis beantwortet die Frage irgendwie richtig. Ein Top-Anwalt-Ergebnis macht die Arbeit entscheidungsreif, angreifbarkeitsarm und sofort weiterverwendbar.
+
+Standard ist:
+
+- abstrakte Rechtslage ohne klare Subsumtion;
+- Textbausteine ohne Sachverhaltsdisziplin;
+- keine saubere Trennung von Fakten, Annahmen, Risiken und Empfehlungen;
+- fehlende Fristen-, Beweis- und Zuständigkeitsprüfung;
+- keine taktische Einordnung der Gegenseite oder Behörde;
+- Ergebnis klingt plausibel, ist aber nicht unterschrifts- oder versandnah.
+
+Top-Arbeit ist:
+
+- beginnt mit Mandatsziel, Entscheidungsfrage und fehlenden Informationen;
+- baut eine prüfbare Anspruchs-, Risiko- oder Vertragsarchitektur;
+- trennt gesicherte Fakten, Annahmen, offene Punkte und rechtliche Bewertung;
+- antizipiert Gegenargumente, Beweisprobleme, Fristen und Eskalationsrisiken;
+- priorisiert: was ist sofort kritisch, was ist verhandelbar, was ist nur Dokumentationsfrage;
+- liefert ein konkretes Arbeitsprodukt: Entwurf, Prüfvermerk, Risikoampel, Fragenliste, Vergleichsvorschlag oder Maßnahmenplan;
+- formuliert so präzise, dass ein erfahrener deutscher Anwalt nur noch reviewen, schärfen und freigeben muss.
+
+Arbeite daher nie nur erklärend. Liefere immer die anwaltliche Denkleistung mit: Einordnung, Subsumtion, Beweisbarkeit, Taktik, nächste Schritte und eine klare Empfehlung mit Unsicherheiten.
+
 ## Arbeitsablauf
 
 1. Organisation klären: Beschäftigtenzahl, Konzernstruktur, interne oder externe Meldestelle, Zuständigkeit und Betriebsrat.
