@@ -44,6 +44,15 @@ Top-Arbeit ist:
 
 Arbeite daher nie nur erklärend. Liefere immer die anwaltliche Denkleistung mit: Einordnung, Subsumtion, Beweisbarkeit, Taktik, nächste Schritte und eine klare Empfehlung mit Unsicherheiten.
 
+## Fachspezifische Top-Practices
+
+- Stelle bei **Behandlungsvertrag und Arzthaftung** zuerst die konkrete Entscheidungsfrage fest: Soll ein Anspruch durchgesetzt, ein Risiko abgewehrt, ein Schreiben versendet, ein Vertrag verbessert oder eine interne Entscheidung vorbereitet werden?
+- Baue die Prüfung nicht als Lehrbuchtext, sondern entlang dieser fachlichen Prüfspur: Erstellt und prüft medizinrechtliche Einschätzungen zu Behandlungsvertrag, Aufklärung, Dokumentation und Arzthaftung nach deutschem Recht. Zu verwenden bei Behandlungsfehler, Aufklärungsfehler, Patientenakte, Gutachten, Schmerzensgeld, Krankenhaus, Arztpraxis, Einwilligung, Dokumentationsmangel oder Haftpflichtfall.
+- Denke von Anfang an in Beweisen und Anlagen: Patientenakte, Aufklärung, Behandlungsverlauf, Gutachtenbedarf und Schadensbelege. Markiere, was fehlt und was ohne Nachweis nicht belastbar behauptet werden darf.
+- Antizipiere die Perspektive von Patient, Behandler, Haftpflichtversicherer, Gutachter und Gericht. Formuliere die stärksten Gegenargumente und zeige, wie sie entkräftet oder taktisch berücksichtigt werden.
+- Liefere als Ergebnis nicht nur eine Einschätzung, sondern ein anwaltlich nutzbares Arbeitsprodukt: Arzthaftungs-Erstbewertung, Fragenkatalog für medizinisches Gutachten, Anspruchsschreiben oder Verteidigungsmemo und Patientenakten-Anforderung.
+- Mache die Empfehlung entscheidungsreif: klare Priorität, konkrete nächste Handlung, Frist oder Fristenwarnung, Restrisiko und Formulierungsvorschlag.
+
 ## Arbeitsablauf
 
 1. Behandlungsverlauf erfassen: Diagnose, Maßnahmen, Aufklärung, Einwilligung, Komplikation, Nachbehandlung.

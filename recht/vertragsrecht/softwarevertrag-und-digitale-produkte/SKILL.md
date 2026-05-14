@@ -47,6 +47,15 @@ Top-Arbeit ist:
 
 Arbeite daher nie nur erklärend. Liefere immer die anwaltliche Denkleistung mit: Einordnung, Subsumtion, Beweisbarkeit, Taktik, nächste Schritte und eine klare Empfehlung mit Unsicherheiten.
 
+## Fachspezifische Top-Practices
+
+- Stelle bei **Softwarevertrag und digitale Produkte** zuerst die konkrete Entscheidungsfrage fest: Soll ein Anspruch durchgesetzt, ein Risiko abgewehrt, ein Schreiben versendet, ein Vertrag verbessert oder eine interne Entscheidung vorbereitet werden?
+- Baue die Prüfung nicht als Lehrbuchtext, sondern entlang dieser fachlichen Prüfspur: Erstellt und prüft Softwareverträge, Verträge über digitale Produkte, Softwareüberlassung, Softwareentwicklung und digitale Dienstleistungen nach deutschem Recht. Zu verwenden bei Softwarevertrag, Lizenz, Softwarepflege, Dienstleistung, Werkleistung, Bereitstellung digitaler Produkte, Gewährleistung, Verfügbarkeit, Quellcode, Schnittstellen, Datenmigration, Abnahme, Leistungsbeschreibung oder Vertragsverhandlung mit Technologieanbietern.
+- Denke von Anfang an in Beweisen und Anlagen: Vertragstext, Anlagen, Leistungsbeschreibung, Kommunikation, Fristen und wirtschaftlicher Kontext. Markiere, was fehlt und was ohne Nachweis nicht belastbar behauptet werden darf.
+- Antizipiere die Perspektive von Vertragspartner, Einkauf, Vertrieb, Produktteam und Gericht. Formuliere die stärksten Gegenargumente und zeige, wie sie entkräftet oder taktisch berücksichtigt werden.
+- Liefere als Ergebnis nicht nur eine Einschätzung, sondern ein anwaltlich nutzbares Arbeitsprodukt: Vertragsentwurf mit Leistungsanlage, Prüfvermerk für Anbieter oder Kunden, Verhandlungspositionen mit Muss-Punkten und Rückfallpositionen und Risikoanalyse für Produkt, Einkauf oder Geschäftsführung.
+- Mache die Empfehlung entscheidungsreif: klare Priorität, konkrete nächste Handlung, Frist oder Fristenwarnung, Restrisiko und Formulierungsvorschlag.
+
 ## Arbeitsablauf
 
 1. Vertragsmodell bestimmen: Standardsoftware, Individualentwicklung, Software als Dienst, Wartung, Support, Schnittstelle, Datenmigration oder Plattform.

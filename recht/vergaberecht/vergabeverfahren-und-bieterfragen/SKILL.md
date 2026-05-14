@@ -45,6 +45,15 @@ Top-Arbeit ist:
 
 Arbeite daher nie nur erklärend. Liefere immer die anwaltliche Denkleistung mit: Einordnung, Subsumtion, Beweisbarkeit, Taktik, nächste Schritte und eine klare Empfehlung mit Unsicherheiten.
 
+## Fachspezifische Top-Practices
+
+- Stelle bei **Vergabeverfahren und Bieterfragen** zuerst die konkrete Entscheidungsfrage fest: Soll ein Anspruch durchgesetzt, ein Risiko abgewehrt, ein Schreiben versendet, ein Vertrag verbessert oder eine interne Entscheidung vorbereitet werden?
+- Baue die Prüfung nicht als Lehrbuchtext, sondern entlang dieser fachlichen Prüfspur: Erstellt und prüft vergaberechtliche Vermerke, Bieterfragen, Rügen, Wertungsmemos und Vergabeunterlagen nach deutschem Vergaberecht. Zu verwenden bei öffentlicher Auftraggeber, Ausschreibung, Eignung, Zuschlagskriterien, Wertung, Rüge, Nachprüfungsverfahren, Vergabevermerk, Losbildung, Aufklärung oder Bieterstrategie.
+- Denke von Anfang an in Beweisen und Anlagen: Vergabeunterlagen, Fristen, Rügen, Wertungsmatrix, Dokumentation und Bieterkommunikation. Markiere, was fehlt und was ohne Nachweis nicht belastbar behauptet werden darf.
+- Antizipiere die Perspektive von Auftraggeber, Bieter, Vergabekammer und Fachbereich. Formuliere die stärksten Gegenargumente und zeige, wie sie entkräftet oder taktisch berücksichtigt werden.
+- Liefere als Ergebnis nicht nur eine Einschätzung, sondern ein anwaltlich nutzbares Arbeitsprodukt: Bieterfrage oder Rügeschreiben, Vergabevermerk oder Wertungsmemo, Risikoanalyse für Vergabeunterlagen und Strategie für Nachprüfung oder Zuschlag.
+- Mache die Empfehlung entscheidungsreif: klare Priorität, konkrete nächste Handlung, Frist oder Fristenwarnung, Restrisiko und Formulierungsvorschlag.
+
 ## Arbeitsablauf
 
 1. Verfahren einordnen: Oberschwelle oder Unterschwelle, Lieferleistung, Dienstleistung, Bauleistung, Konzession.
