@@ -46,6 +46,31 @@ Aktuelle Fähigkeiten:
 - `recht/vereinsrecht/vereinssatzung-und-gemeinnuetzigkeit`
 - `recht/energierecht/energievertrag-und-photovoltaik`
 - `recht/bildungsrecht/schule-pruefung-und-hochschule`
+- `recht/einzelhandel/ladendiebstahl-und-hausverbot`
+- `recht/einzelhandel/filialmietvertrag-und-standortwechsel`
+- `recht/einzelhandel/lieferantenvertrag-und-einkaufsbedingungen`
+- `recht/einzelhandel/produktsicherheit-im-verkauf`
+- `recht/einzelhandel/produktkennzeichnung-und-pflichtangaben`
+- `recht/einzelhandel/preisauszeichnung-und-rabattaktionen`
+- `recht/einzelhandel/werbung-und-verkaufsaktionen`
+- `recht/einzelhandel/online-shop-und-verkauf-ueber-mehrere-kanaele`
+- `recht/einzelhandel/kundenbeschwerden-und-gewaehrleistung`
+- `recht/einzelhandel/retourenmissbrauch-und-kundenbetrug`
+- `recht/einzelhandel/kundendaten-kundenkarten-und-bonusprogramme`
+- `recht/einzelhandel/videoueberwachung-in-filialen`
+- `recht/einzelhandel/beschaeftigtendatenschutz-im-handel`
+- `recht/einzelhandel/arbeitszeit-schichtplaene-und-sonntagsarbeit`
+- `recht/einzelhandel/betriebsrat-in-filialstrukturen`
+- `recht/einzelhandel/kuendigung-und-abmahnung-im-filialbetrieb`
+- `recht/einzelhandel/franchise-und-konzessionsflaechen`
+- `recht/einzelhandel/marktplatz-und-plattformverkauf`
+- `recht/einzelhandel/bewertungen-und-reputationsschutz`
+- `recht/einzelhandel/abmahnungen-im-wettbewerbsrecht`
+- `recht/einzelhandel/umweltwerbung-und-nachhaltigkeitsaussagen`
+- `recht/einzelhandel/barrierefreiheit-im-handel-und-online-shop`
+- `recht/einzelhandel/zahlungsdienstleister-gutscheine-und-geschenkkarten`
+- `recht/einzelhandel/krisenkommunikation-bei-rueckruf-shitstorm-oder-datenpanne`
+- `recht/einzelhandel/filialschliessung-und-personalabbau`
 
 ## Prinzipien
 

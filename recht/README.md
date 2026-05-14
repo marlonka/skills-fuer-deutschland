@@ -31,6 +31,7 @@ Diese Fähigkeiten sollen keine anwaltliche Prüfung ersetzen. Sie sollen Entwü
 - `vereinsrecht`: Vereinssatzung und Gemeinnützigkeit.
 - `energierecht`: Energieverträge und Photovoltaik.
 - `bildungsrecht`: Schule, Prüfung und Hochschule.
+- `einzelhandel`: Filialbetrieb, Online-Shop, Kunden, Personal, Lieferanten, Produkte, Werbung, Zahlung, Krise und Restrukturierung im Handel.
 
 ## Qualitätsstandard
 
