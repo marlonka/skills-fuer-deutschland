@@ -1,5 +1,5 @@
 ---
-name: arbeitszeit-schichtplaene-und-sonntagsarbeit
+name: arbeitszeit-schichtplaene-und-sonntagsarbeit-im-handel
 description: Erstellt und prüft Arbeitszeitmodelle, Schichtpläne, Pausen, Sonntagsarbeit und Feiertagsarbeit im deutschen Einzelhandel. Zu verwenden bei Schichtplan, Ladenöffnung, Arbeitszeitgesetz, Pausen, Minijob, Sonntagsöffnung, Feiertag, Zuschläge, Arbeitszeiterfassung, Personaleinsatzplanung oder Filialbetrieb.
 ---
 

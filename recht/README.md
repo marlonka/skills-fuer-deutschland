@@ -6,21 +6,24 @@ Diese Fähigkeiten sollen keine anwaltliche Prüfung ersetzen. Sie sollen Entwü
 
 ## Bereiche
 
-- `datenschutz`: Datenschutz-Folgenabschätzung sowie Auftragsverarbeitung und Datenschutzverträge.
-- `arbeitsrecht`: Arbeitsverträge, Nachweis der Arbeitsbedingungen, Kündigung und Aufhebungsvertrag.
-- `vertragsrecht`: Allgemeine Geschäftsbedingungen, Verbraucherverträge, Softwareverträge und digitale Produkte.
-- `technologierecht`: Künstliche-Intelligenz-Verordnung, Grundrechtebewertung, Informationssicherheit und Meldepflichten.
+Die Ordner folgen dem primären Rechtsgebiet. Branchennahe Fähigkeiten, etwa für den Einzelhandel, werden dort einsortiert, wo ein Anwalt sie fachlich suchen würde.
+
+- `datenschutz`: Datenschutz-Folgenabschätzung, Auftragsverarbeitung, Betroffenenrechte, Datenschutzvorfälle, Kundendatenprogramme und Videoüberwachung.
+- `arbeitsrecht`: Arbeitsverträge, Kündigung, Aufhebungsvertrag, Schichtplanung, Betriebsrat, Filialschließung und Personalabbau.
+- `vertragsrecht`: Allgemeine Geschäftsbedingungen, Verbraucherverträge, Softwareverträge, digitale Produkte, Lieferantenverträge, Online-Shop, Gewährleistung und Franchise.
+- `technologierecht`: Künstliche-Intelligenz-Verordnung, Grundrechtebewertung, Informationssicherheit, Plattformverkauf, Barrierefreiheit und Meldepflichten.
 - `geheimnisschutz`: Geschäftsgeheimnisse und Vertraulichkeitsvereinbarungen.
 - `gesellschaftsrecht`: Gesellschaft mit beschränkter Haftung, Beschlüsse und Geschäftsführerhaftung.
-- `regelkonformitaet`: Hinweisgeberschutz, Lieferkettensorgfalt, Geldwäscheprävention, Transparenzregister, Produkthaftung und Produktsicherheit.
-- `mietrecht`: Wohnraummiete, Mieterhöhung, Mängel, Kaution, Nebenkosten, Kündigung, Modernisierung, Mietpreisbremse, Räumungsschutz und weitere mieterseitige Praxisprobleme.
+- `regelkonformitaet`: Hinweisgeberschutz, Lieferkettensorgfalt, Geldwäscheprävention, Transparenzregister, Produkthaftung, Produktsicherheit und Produktkennzeichnung.
+- `mietrecht`: Wohnraummiete, Gewerberaummiete, Filialmiete, Mieterhöhung, Mängel, Kaution, Nebenkosten, Kündigung, Modernisierung, Mietpreisbremse, Räumungsschutz und weitere mieterseitige Praxisprobleme.
 - `baurecht`: Bauvertrag, Abnahme und Mängelrechte.
 - `vergaberecht`: Vergabeverfahren und Bieterfragen.
 - `insolvenzrecht`: Insolvenzreife und Sanierungspflichten.
 - `kennzeichenrecht`: Marken und Kennzeichenstreit.
 - `urheberrecht`: Urheberrecht und Nutzungsrechte.
-- `wettbewerbsrecht`: Werbung, Marktverhalten und Abmahnungen.
-- `presserecht`: Äußerungsrecht, Berichterstattung und Persönlichkeitsrecht.
+- `wettbewerbsrecht`: Werbung, Marktverhalten, Preisangaben, Umweltwerbung, Verkaufsaktionen und Abmahnungen.
+- `presserecht`: Äußerungsrecht, Berichterstattung, Persönlichkeitsrecht, Bewertungen und Krisenkommunikation.
+- `strafrecht`: Ladendiebstahl, Hausverbot, Retourenmissbrauch und Kundenbetrug.
 - `erbrecht`: Testament, Erbfolge und Pflichtteil.
 - `familienrecht`: Trennung, Scheidung und Unterhalt.
 - `prozessrecht`: Klage, Klageerwiderung, Mahnverfahren und Forderungsdurchsetzung.
@@ -31,7 +34,7 @@ Diese Fähigkeiten sollen keine anwaltliche Prüfung ersetzen. Sie sollen Entwü
 - `vereinsrecht`: Vereinssatzung und Gemeinnützigkeit.
 - `energierecht`: Energieverträge und Photovoltaik.
 - `bildungsrecht`: Schule, Prüfung und Hochschule.
-- `einzelhandel`: Filialbetrieb, Online-Shop, Kunden, Personal, Lieferanten, Produkte, Werbung, Zahlung, Krise und Restrukturierung im Handel.
+- `zahlungsrecht`: Zahlungsdienstleister, Gutscheine, Geschenkkarten, Chargebacks und Zahlungsstörungen.
 
 ## Qualitätsstandard
 

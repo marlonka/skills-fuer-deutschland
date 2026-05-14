@@ -1,9 +1,9 @@
 ---
-name: krisenkommunikation-bei-rueckruf-shitstorm-oder-datenpanne
-description: Erstellt und prüft rechtlich belastbare Krisenkommunikation im Einzelhandel bei Rückruf, öffentlicher Empörung, Datenschutzverletzung oder Sicherheitsvorfall. Zu verwenden bei Rückrufkommunikation, Shitstorm, Datenpanne, Presseanfrage, Kundenmail, Behördenabstimmung, Social-Media-Reaktion, Sprachregelung oder Krisenfreigabe.
+name: krisenkommunikation-rueckruf-empoerung-datenpanne
+description: Erstellt und prüft rechtlich belastbare Krisenkommunikation im Einzelhandel bei Rückruf, öffentlicher Empörung, Datenschutzverletzung oder Sicherheitsvorfall. Zu verwenden bei Rückrufkommunikation, öffentlicher Empörung, Datenpanne, Presseanfrage, Kundenmail, Behördenabstimmung, Reaktion in sozialen Netzwerken, Sprachregelung oder Krisenfreigabe.
 ---
 
-# Krisenkommunikation bei Rückruf, Shitstorm oder Datenpanne
+# Krisenkommunikation bei Rückruf, öffentlicher Empörung oder Datenpanne
 
 ## Arbeitsstandard
 

@@ -1,5 +1,5 @@
 ---
-name: abmahnungen-im-wettbewerbsrecht
+name: einzelhandelsabmahnungen-und-unterlassungserklaerungen
 description: Erstellt und prüft Reaktionen auf wettbewerbsrechtliche Abmahnungen gegen Einzelhandelsunternehmen. Zu verwenden bei Abmahnung, Unterlassungserklärung, Vertragsstrafe, Preisangaben, Produktkennzeichnung, Werbung, Online-Shop, einstweiliger Verfügung, Schutzschrift oder Vergleich.
 ---
 

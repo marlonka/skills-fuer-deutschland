@@ -71,36 +71,37 @@ Aktuelle Fähigkeiten:
 - `recht/vereinsrecht/vereinssatzung-und-gemeinnuetzigkeit`
 - `recht/energierecht/energievertrag-und-photovoltaik`
 - `recht/bildungsrecht/schule-pruefung-und-hochschule`
-- `recht/einzelhandel/ladendiebstahl-und-hausverbot`
-- `recht/einzelhandel/filialmietvertrag-und-standortwechsel`
-- `recht/einzelhandel/lieferantenvertrag-und-einkaufsbedingungen`
-- `recht/einzelhandel/produktsicherheit-im-verkauf`
-- `recht/einzelhandel/produktkennzeichnung-und-pflichtangaben`
-- `recht/einzelhandel/preisauszeichnung-und-rabattaktionen`
-- `recht/einzelhandel/werbung-und-verkaufsaktionen`
-- `recht/einzelhandel/online-shop-und-verkauf-ueber-mehrere-kanaele`
-- `recht/einzelhandel/kundenbeschwerden-und-gewaehrleistung`
-- `recht/einzelhandel/retourenmissbrauch-und-kundenbetrug`
-- `recht/einzelhandel/kundendaten-kundenkarten-und-bonusprogramme`
-- `recht/einzelhandel/videoueberwachung-in-filialen`
-- `recht/einzelhandel/beschaeftigtendatenschutz-im-handel`
-- `recht/einzelhandel/arbeitszeit-schichtplaene-und-sonntagsarbeit`
-- `recht/einzelhandel/betriebsrat-in-filialstrukturen`
-- `recht/einzelhandel/kuendigung-und-abmahnung-im-filialbetrieb`
-- `recht/einzelhandel/franchise-und-konzessionsflaechen`
-- `recht/einzelhandel/marktplatz-und-plattformverkauf`
-- `recht/einzelhandel/bewertungen-und-reputationsschutz`
-- `recht/einzelhandel/abmahnungen-im-wettbewerbsrecht`
-- `recht/einzelhandel/umweltwerbung-und-nachhaltigkeitsaussagen`
-- `recht/einzelhandel/barrierefreiheit-im-handel-und-online-shop`
-- `recht/einzelhandel/zahlungsdienstleister-gutscheine-und-geschenkkarten`
-- `recht/einzelhandel/krisenkommunikation-bei-rueckruf-shitstorm-oder-datenpanne`
-- `recht/einzelhandel/filialschliessung-und-personalabbau`
+- `recht/strafrecht/ladendiebstahl-und-hausverbot`
+- `recht/strafrecht/retourenmissbrauch-und-kundenbetrug`
+- `recht/mietrecht/filialmietvertrag-und-standortwechsel`
+- `recht/vertragsrecht/lieferantenvertrag-und-einkaufsbedingungen`
+- `recht/vertragsrecht/online-shop-und-verkauf-ueber-mehrere-kanaele`
+- `recht/vertragsrecht/kundenbeschwerden-und-gewaehrleistung`
+- `recht/vertragsrecht/franchise-und-konzessionsflaechen`
+- `recht/regelkonformitaet/produktsicherheit-im-verkauf`
+- `recht/regelkonformitaet/produktkennzeichnung-und-pflichtangaben`
+- `recht/wettbewerbsrecht/preisauszeichnung-und-rabattaktionen`
+- `recht/wettbewerbsrecht/werbung-und-verkaufsaktionen`
+- `recht/wettbewerbsrecht/einzelhandelsabmahnungen-und-unterlassungserklaerungen`
+- `recht/wettbewerbsrecht/umweltwerbung-und-nachhaltigkeitsaussagen`
+- `recht/datenschutz/kundendaten-kundenkarten-und-bonusprogramme`
+- `recht/datenschutz/videoueberwachung-in-filialen`
+- `recht/datenschutz/beschaeftigtendatenschutz-im-handel`
+- `recht/arbeitsrecht/arbeitszeit-schichtplaene-und-sonntagsarbeit-im-handel`
+- `recht/arbeitsrecht/betriebsrat-in-filialstrukturen`
+- `recht/arbeitsrecht/kuendigung-und-abmahnung-im-filialbetrieb`
+- `recht/arbeitsrecht/filialschliessung-und-personalabbau`
+- `recht/technologierecht/marktplatz-und-plattformverkauf`
+- `recht/technologierecht/barrierefreiheit-im-handel-und-online-shop`
+- `recht/presserecht/bewertungen-und-reputationsschutz`
+- `recht/presserecht/krisenkommunikation-rueckruf-empoerung-datenpanne`
+- `recht/zahlungsrecht/zahlungsdienstleister-gutscheine-und-geschenkkarten`
 
 ## Prinzipien
 
 - Deutsche Ordnernamen und deutsche Arbeitsprodukte.
 - Beschreibende, ausgeschriebene Namen statt Schlagwort-Abkürzungen.
+- Ordner werden nach primärem Rechtsgebiet sortiert, nicht nach Branche, Persona oder Prompt-Anlass.
 - Gesetzestext, europäische Verordnungen und deutsche Aufsichtspraxis vor Kanzleimustern.
 - Genau eine `SKILL.md` je Fähigkeit; Quellen und Prüfstandard stehen direkt in der jeweiligen Datei.
 - Keine Scheinsicherheit, keine erfundenen Fundstellen, keine generische KI-Prosa.
