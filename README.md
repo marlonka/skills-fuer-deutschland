@@ -8,6 +8,8 @@ Viele öffentliche Skill-Sammlungen sind englisch, amerikanisch geprägt oder zu
 
 Der erste Schwerpunkt ist Recht: Skills sollen Entwürfe, Prüfvermerke, Lückenlisten, Risikoanalysen, Vertragsvergleiche, Verhandlungsunterlagen und Entscheidungsvorlagen so vorbereiten, dass erfahrene Juristen schneller zu belastbaren Ergebnissen kommen.
 
+Außerhalb von `recht/` gibt es Meta-Skills für die Skill-Erstellung selbst, etwa `skill-erstellung/skill-generation-best-practices`.
+
 ## Status
 
 Das Repository ist öffentlich und steht unter der MIT-Lizenz. Beiträge sind willkommen, wenn sie den Qualitätsstandard des Projekts ernst nehmen.
@@ -101,6 +103,7 @@ Beispiele:
 - `recht/datenschutz/datenschutz-folgenabschaetzung`
 - `recht/technologierecht/kuenstliche-intelligenz-systeme-klassifizieren`
 - `recht/anwaltliche-arbeitsmethoden/mandantenmemo-und-entscheidungsvorlage-erstellen`
+- `skill-erstellung/skill-generation-best-practices`
 
 ## Mitwirken
 

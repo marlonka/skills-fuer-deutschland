@@ -77,16 +77,15 @@ def validate_skill(path, errors):
 
 
 def main():
-    root = Path("recht")
-    if not root.exists():
-        print("No recht/ directory found", file=sys.stderr)
-        return 1
-
-    skills = sorted(root.glob("**/SKILL.md"))
+    skills = sorted(
+        path
+        for path in Path(".").glob("**/SKILL.md")
+        if ".git" not in path.parts
+    )
     errors = []
 
     if not skills:
-        errors.append("No SKILL.md files found under recht/")
+        errors.append("No SKILL.md files found")
 
     for skill in skills:
         validate_skill(skill, errors)
