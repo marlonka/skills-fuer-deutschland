@@ -2,120 +2,132 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Deutsch-first Skills für KI-Assistenten, die deutsche Arbeit in deutschen Rechts-, Wirtschafts- und Verwaltungskontexten besser erledigen sollen.
+Deutsch-first Skills für KI-Assistenten. Dieses Repository sammelt wiederverwendbare `SKILL.md`-Anweisungen für reale deutsche Arbeitsprobleme: juristische Prüfungen, anwaltliche Arbeitsprodukte, IT- und Digitalprozesse, Unternehmensarbeit und später weitere Fachbereiche.
 
-Viele öffentliche Skill-Sammlungen sind englisch, amerikanisch geprägt oder zu allgemein für deutsche Nutzer. Dieses Repository sammelt Fähigkeiten, die deutsche Quellen, deutsche Begriffe, deutsche Risiken und deutsche Arbeitsprodukte ernst nehmen.
-
-Der erste Schwerpunkt ist Recht: Skills sollen Entwürfe, Prüfvermerke, Lückenlisten, Risikoanalysen, Vertragsvergleiche, Verhandlungsunterlagen und Entscheidungsvorlagen so vorbereiten, dass erfahrene Juristen schneller zu belastbaren Ergebnissen kommen.
-
-Der zweite gestartete Geschäftsbereich ist `it-und-digital/` für operative Informationstechnologie, digitale Produkte, IT-Betrieb, Architektur, Sicherheit, Daten, Cloud, Automatisierung und digitale Transformation in Unternehmen.
-
-Außerhalb von `recht/` gibt es Meta-Skills für die Skill-Erstellung selbst, etwa `skill-erstellung/skill-generation-best-practices`.
+Der Anspruch ist nicht "guter Prompt", sondern ein belastbarer Arbeitsmodus: Die KI soll wissen, welche Rolle sie einnehmen soll, welche Quellen und Prüfschritte zählen, wo typische Fehler liegen und wie ein verwertbares Ergebnis aussieht.
 
 ## Status
 
-Das Repository ist öffentlich und steht unter der MIT-Lizenz. Beiträge sind willkommen, wenn sie den Qualitätsstandard des Projekts ernst nehmen.
+Das Repository ist öffentlich, MIT-lizenziert und im Aufbau.
 
-Wichtig: Die Skills ersetzen keine anwaltliche Prüfung. Sie sollen KI-Assistenten zu besseren Entwürfen, Prüfstrukturen und Arbeitsprodukten führen, die von qualifizierten Personen geprüft werden müssen.
+Aktueller Stand:
 
-## Ziel
+- `187` Skills insgesamt.
+- `136` Rechts-Skills unter `recht/`.
+- `50` IT- und Digital-Skills unter `it-und-digital/`.
+- `1` Meta-Skill zur Skill-Erstellung unter `skill-erstellung/`.
 
-Ein Skill soll nicht nur erklären, was ungefähr gilt. Er soll der KI die Arbeitsweise vorgeben, die ein sehr guter deutscher Anwalt erwarten würde:
+Wichtig: Die Skills ersetzen keine anwaltliche, technische oder fachliche Verantwortung. Sie verbessern Entwürfe, Prüfstrukturen, Reviews und Entscheidungsvorlagen. Kritische Ergebnisse müssen von qualifizierten Personen geprüft werden.
 
-- Sachverhalt zuerst, Textbaustein zuletzt.
-- Deutsche und europäische Quellen vor amerikanischen Mustern.
-- Fakten, Annahmen, offene Punkte und Bewertung strikt getrennt.
-- Fristen, Form, Zuständigkeit, Beweise, Anlagen und Eskalation ausdrücklich geprüft.
-- Ergebnis als verwertbares Arbeitsprodukt, nicht als allgemeiner Ratgebertext.
-- Keine Scheinsicherheit, keine erfundenen Fundstellen, keine generische KI-Prosa.
+## Was dieses Repo anders macht
 
-## Wie Skills geschrieben werden
+Viele Skill-Sammlungen sind englisch, US-geprägt oder zu allgemein. Dieses Repository ist für deutsche Nutzer gebaut:
 
-Jeder Skill ist ein einzelner Ordner mit genau einer `SKILL.md`. Quellen, Prüfstandard und Arbeitsweise stehen direkt in dieser Datei. Es gibt keine zusätzlichen Quellenordner innerhalb eines Skills.
+- deutsche Begriffe, deutsche Arbeitsprodukte, deutsche Risiken;
+- deutsches und europaeisches Recht, wo Recht betroffen ist;
+- klare Rollen statt generischer "du bist Experte"-Sätze;
+- konkrete Pruefschritte statt Ratgebertext;
+- sichtbare Annahmen, offene Punkte, Nachweise und Review-Gates;
+- ein Ergebnis, das in Kanzlei, Rechtsabteilung, IT, Compliance oder Fachbereich weiterverwendet werden kann.
 
-Frontmatter bleibt knapp:
+## Strukturprinzip
+
+Skills werden nach fachlicher Ordnung einsortiert, nicht nach Prompt-Laune oder Branche.
+
+Beispiele:
+
+- Rechtsarbeit liegt unter `recht/<rechtsgebiet>/<skill-name>/SKILL.md`.
+- IT- und Digitalarbeit liegt unter `it-und-digital/<skill-name>/SKILL.md`.
+- Meta-Skills liegen unter `skill-erstellung/<skill-name>/SKILL.md`.
+
+Jeder Skill-Ordner enthält genau eine Datei:
+
+```text
+bereich/
+  skill-name/
+    SKILL.md
+```
+
+Keine `references/`, keine zusätzlichen README-Dateien im Skill-Ordner, keine verstreuten Quellen. Alles, was der jeweilige Skill für seinen Arbeitsmodus braucht, steht in seiner einen `SKILL.md`.
+
+## Wie ein guter Skill geschrieben ist
+
+Ein Skill muss eine spezifische, wiederholbare Aufgabe besser machen. Er ist kein Lexikonartikel und keine Sammlung allgemeiner Best Practices.
+
+Pflichtstandard:
+
+- `name`: lowercase, hyphen-case, identisch mit dem Ordnernamen.
+- `description`: klarer Triggertext mit Aufgabe, Kontext und typischen Nutzerformulierungen.
+- `Arbeitsstandard`: Rolle, Qualitätsniveau, Grenzen.
+- `Quellen und Prüfstandard`: relevante Quellenhierarchie und Aktualitätslogik.
+- `Was Top-Arbeit von Standardarbeit unterscheidet`: konkrete Differenz zwischen normalem Output und exzellenter Facharbeit.
+- `Fachspezifische Top-Practices`: die nicht offensichtlichen Muster, die sehr gute Praktiker tatsächlich beachten.
+- `Arbeitsablauf`: zwingende Reihenfolge.
+- `Ausgabe`: verwertbare Ergebnisform.
+- `Qualitätskontrolle`: kurze Prüffragen gegen Lücken, Scheinsicherheit und falsche Prioritäten.
+
+Minimaler Header:
 
 ```yaml
 ---
 name: beschreibender-skill-name
-description: Klare Trigger und Einsatzfälle, damit die KI den Skill zuverlässig lädt.
+description: Erstellt oder prüft ein konkretes Arbeitsprodukt für klar benannte Einsatzfälle und Trigger.
 ---
 ```
 
-Der Body folgt grundsätzlich diesem Muster:
+## Qualitätslinie
 
-- `Arbeitsstandard`: Rolle, Qualitätsniveau, Grenzen und Anti-Slop-Regeln.
-- `Quellen und Prüfstandard`: Quellenhierarchie und Aktualitätsvorbehalte.
-- `Was Top-Arbeit von Standardarbeit unterscheidet`: konkrete Qualitätsdifferenz.
-- `Fachspezifische Top-Practices`: was ein sehr guter Anwalt in genau diesem Thema anders macht.
-- `Arbeitsablauf`: zwingende Prüfreihenfolge.
-- `Ausgabe`: welche verwertbaren Produkte entstehen sollen.
-- `Qualitätskontrolle`: kurze Review-Fragen gegen Scheinsicherheit und Lücken.
+Ein Skill ist erst gut, wenn ein sehr guter Praktiker sagen würde: "Das erspart mir echte Arbeit, weil die KI schon in der richtigen Denkstruktur startet."
 
-Gute Skill-Namen sind deutsch, beschreibend, kleingeschrieben und mit Bindestrichen verbunden. Ordner werden nach primärem Rechtsgebiet sortiert, nicht nach Branche, Persona oder Prompt-Anlass.
+Das bedeutet:
 
-## Bereits abgedeckte Bereiche
+- keine generischen Sicherheitsblöcke, die in jedem Skill gleich klingen;
+- keine erfundenen Normen, Fundstellen, Ursachen oder technischen Gewissheiten;
+- keine pauschalen Entwarnungen;
+- keine "AI slop"-Formulierungen;
+- keine künstliche Vollständigkeit, wenn Sachverhalt, Logs, Dokumente oder Nachweise fehlen;
+- keine Vermischung von Fakten, Annahmen, Hypothesen, Bewertung und Empfehlung;
+- keine Skills, die mehrere unterschiedliche Berufe oder Workflows unklar zusammenwerfen.
 
-Das Repository enthält aktuell 136 Rechts-Skills in deutschen Rechtsgebieten und anwaltlichen Arbeitsmethoden.
+## Abgedeckte Bereiche
 
-Stark ausgebaute Bereiche:
+Unter `recht/` sind bereits viele deutsche Rechtsgebiete und anwaltliche Arbeitsmethoden angelegt, unter anderem Datenschutz, Technologierecht, Vertragsrecht, Mietrecht, Prozessrecht, Arbeitsrecht, Wettbewerbsrecht, Urheberrecht, Gesellschaftsrecht, Compliance-nahe Themen und anwaltliche Querschnittsarbeit.
 
-- `mietrecht`: Wohnraummiete, Mieterhöhung, Nebenkosten, Mängel, Kündigung, Kaution, Räumungsschutz und weitere Praxisprobleme.
-- `vertragsrecht`: Vertragsprüfung, Vertragsvergleich, Redline-/Delta-Analyse, Vertragsverhandlung, Klauseln, Software, Einkauf, Online-Shop und Lieferanten.
-- `technologierecht`: künstliche Intelligenz, Hochrisiko-Systeme, Grundrechtebewertung, Cyberresilienz, Datenzugang, Plattformpflichten und Produktfreigabe.
-- `regelkonformitaet`: Behördenkommunikation, interne Untersuchungen, Richtlinienprüfung, Hinweisgeber, Lieferketten, Geldwäsche, Produktsicherheit und Digitalregulierung.
-- `datenschutz`: Datenschutz-Folgenabschätzung, algorithmische Systeme, Auftragsverarbeitung, Betroffenenrechte, Datenpannen, Kundenprogramme und Videoüberwachung.
-- `prozessrecht`: Schriftsätze, Klageerwiderung, Beweise, Anlagen, Fristen, Vergleich, Prozessrisiko und Forderungsdurchsetzung.
+Unter `it-und-digital/` sind allgemeingültige Skills für IT-Betrieb, Incident- und Problem-Management, Anforderungen, Releases, Architektur, Schnittstellen, Daten, Cloud, Security, Migration, Dokumentation, Support, Produktarbeit, Automatisierung und IT-Steuerung angelegt.
 
-Weitere vorhandene Bereiche:
+Unter `skill-erstellung/` liegt ein Meta-Skill, der beim Erstellen, Pruefen und Verbessern neuer Skills helfen soll.
 
-- Arbeitsrecht, Gesellschaftsrecht, Urheberrecht, Wettbewerbsrecht, Presserecht, Strafrecht, Baurecht, Vergaberecht, Insolvenzrecht, Kennzeichenrecht, Erbrecht, Familienrecht, Immobilienrecht, Medizinrecht, Sozialrecht, Steuerrecht, Vereinsrecht, Energierecht, Bildungsrecht, Zahlungsrecht und Geheimnisschutz.
+## Was als Nächstes sinnvoll ist
 
-Querschnittlich gibt es außerdem `anwaltliche-arbeitsmethoden` für Mandatsaufnahme, Mandantenmemos, Mandanten-E-Mails, Praxismemos und Risikoampeln.
+Naheliegende Ausbaupfade:
 
-Außerhalb des Rechtsbereichs ist `it-und-digital` gestartet: Incident Management, Problem Management, Releases, Anforderungen, Product Discovery, Softwareauswahl, Dienstleistersteuerung, Service Level, Architektur, Schnittstellen, Migrationen, Datenqualität, Analytics, Cloud, Backup, Monitoring, Performance, Identitäten, Endgeräte, Schwachstellen, Informationssicherheit, Tests, Dokumentation, Betriebsübergabe, Modernisierung, IT-Kosten, Business Cases, Automatisierung, künstliche Intelligenz, Support, Kollaboration, Website- und App-Releases, Datenschutzanforderungen und IT-Roadmaps.
+- weitere Kanzlei- und Inhouse-Workflows: Aktenchronologie, Dokumentenreview, Anlagenmapping, Mandatsrisiko, Legal Intake, Vertragsfreigabe;
+- weitere Unternehmensbereiche: Personal, Einkauf, Supply Chain, Logistik, Finanzen, Controlling, Marketing, Kundenservice, Revision, Immobilien, Expansion, Nachhaltigkeit;
+- weitere regulierte Branchen: Gesundheit, Energie, Finanzen, Telekommunikation, Versicherung, öffentliche Verwaltung;
+- weitere Bürger- und Verbraucherprobleme: Reisen, Bank, Versicherung, Telekommunikation, Kaufrecht, Handwerker, Behördenbescheide.
 
-## Was noch möglich wäre
+## Validierung
 
-Naheliegende nächste Ausbaustufen:
+Lokale Strukturprüfung:
 
-- Mehr Litigation-Skills: Berufung, einstweiliger Rechtsschutz, Beweisbeschluss, Vergleichsverhandlung vor Gericht, Kostenfestsetzung.
-- Mehr Transaktionsarbeit: Kaufvertrag, Gesellschaftervereinbarung, Garantiekatalog, Closing, Post-Closing-Streit.
-- Mehr Unternehmensrecht: Geschäftsführerpflichten, Gesellschafterstreit, Kapitalmaßnahmen, Unternehmensnachfolge.
-- Mehr regulierte Branchen: Fintech, Gesundheit, Energie, Telekommunikation, Versicherungen, öffentliche Verwaltung.
-- Mehr Kanzlei-Workflows: Aktenchronologie, Dokumentenreview, Anlagenmapping, Mandatsrisiko, Honorar- und Scope-Klärung.
-- Mehr Inhouse-Workflows: Legal Intake, Vertragsfreigabeprozess, Policy Rollout, Audit-Vorbereitung, Rechtsänderungsmonitoring.
-- Mehr Verbraucher- und Bürgerprobleme: Reisen, Versicherung, Bank, Telekommunikation, Kaufrecht, Handwerker, Behördenbescheide.
-- Mehr Geschäftsbereiche außerhalb von Recht: Personal, Filialbetrieb, Einkauf, Supply Chain, Logistik, Immobilien und Expansion, Finanzen und Controlling, Marketing und Kunden, Onlinehandel, Customer Service, Revision, Kommunikation und Krise, Nachhaltigkeit sowie Qualität und Produktsicherheit.
+```powershell
+python scripts\validate_skills.py
+```
 
-## Qualitätsregeln
+Der Validator prüft unter anderem:
 
-- Keine Skill-Datei darf bloß einen allgemeinen Ratgeber enthalten.
-- Jeder Skill muss ein konkretes anwaltliches Arbeitsprodukt erzwingen.
-- Jeder Skill muss sagen, was ein Top-Ergebnis von einem normalen Ergebnis unterscheidet.
-- Jede Bewertung muss offene Punkte, Annahmen und fehlende Nachweise sichtbar machen.
-- Dynamische Rechtsgebiete brauchen Aktualitätsprüfung und Quellenhierarchie.
-- Bei deutschen Nutzern wird deutscher juristischer Stil bevorzugt: präzise, prüfungsfest, mandantenfähig.
-
-## Struktur
-
-Der Einstieg in die Rechts-Skills liegt unter [`recht/`](recht/). Die Unterordner entsprechen dem primären Rechtsgebiet.
-
-Beispiele:
-
-- `recht/vertragsrecht/vertragsversionen-vergleichen-und-aenderungen-bewerten`
-- `recht/prozessrecht/schriftsatz-aus-akte-entwerfen`
-- `recht/datenschutz/datenschutz-folgenabschaetzung`
-- `recht/technologierecht/kuenstliche-intelligenz-systeme-klassifizieren`
-- `recht/anwaltliche-arbeitsmethoden/mandantenmemo-und-entscheidungsvorlage-erstellen`
-- `it-und-digital/incident-priorisieren-und-eskalieren`
-- `skill-erstellung/skill-generation-best-practices`
+- parsebares YAML-Frontmatter;
+- nur `name` und `description`;
+- Ordnername entspricht Skill-Name;
+- genau eine `SKILL.md` je Skill-Ordner;
+- Pflichtabschnitte vorhanden;
+- ausreichende Trigger-Description.
 
 ## Mitwirken
 
-Bitte lies vor einem Beitrag [`CONTRIBUTING.md`](CONTRIBUTING.md). Neue Skills sollen echte deutsche Arbeitsprobleme lösen, sauber einsortiert sein und genau eine `SKILL.md` enthalten.
+Bitte vor einem Beitrag [`CONTRIBUTING.md`](CONTRIBUTING.md) lesen. Neue Skills sollen echte deutsche Arbeitsprobleme lösen, sauber einsortiert sein und den Qualitätsstandard sichtbar erhöhen.
 
-Für sicherheitsrelevante oder sensible Themen siehe [`SECURITY.md`](SECURITY.md). Bitte keine echten Mandanteninformationen, personenbezogenen Daten, Zugangsdaten oder vertraulichen Vertragsinhalte in Issues oder Pull Requests posten.
+Für sensible oder sicherheitsrelevante Themen gilt [`SECURITY.md`](SECURITY.md). Keine echten Mandantendaten, personenbezogenen Daten, Zugangsdaten, Tokens oder vertraulichen Dokumentinhalte in Issues oder Pull Requests posten.
 
 ## Lizenz
 
