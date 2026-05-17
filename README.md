@@ -8,6 +8,8 @@ Viele öffentliche Skill-Sammlungen sind englisch, amerikanisch geprägt oder zu
 
 Der erste Schwerpunkt ist Recht: Skills sollen Entwürfe, Prüfvermerke, Lückenlisten, Risikoanalysen, Vertragsvergleiche, Verhandlungsunterlagen und Entscheidungsvorlagen so vorbereiten, dass erfahrene Juristen schneller zu belastbaren Ergebnissen kommen.
 
+Der zweite gestartete Geschäftsbereich ist `it-und-digital/` für operative Informationstechnologie und digitale Prozesse in großen Einzelhandelsunternehmen mit vielen Filialen.
+
 Außerhalb von `recht/` gibt es Meta-Skills für die Skill-Erstellung selbst, etwa `skill-erstellung/skill-generation-best-practices`.
 
 ## Status
@@ -71,6 +73,8 @@ Weitere vorhandene Bereiche:
 
 Querschnittlich gibt es außerdem `anwaltliche-arbeitsmethoden` für Mandatsaufnahme, Mandantenmemos, Mandanten-E-Mails, Praxismemos und Risikoampeln.
 
+Außerhalb des Rechtsbereichs ist `it-und-digital` gestartet: Kassensysteme, Filialnetzwerk, Systemausfälle, Rollouts, Warenwirtschaft, Dienstleistersteuerung, Anforderungen, Softwareauswahl, Datenflüsse, Produktdaten, Onlinehandel, Abholung in der Filiale, Filial-Apps, Zugriffsrechte, Releases, Tests, Migrationen, Dashboards, Automatisierung, künstliche Intelligenz, IT-Kosten, Informationssicherheitsvorfälle und Filialhardware.
+
 ## Was noch möglich wäre
 
 Naheliegende nächste Ausbaustufen:
@@ -82,6 +86,7 @@ Naheliegende nächste Ausbaustufen:
 - Mehr Kanzlei-Workflows: Aktenchronologie, Dokumentenreview, Anlagenmapping, Mandatsrisiko, Honorar- und Scope-Klärung.
 - Mehr Inhouse-Workflows: Legal Intake, Vertragsfreigabeprozess, Policy Rollout, Audit-Vorbereitung, Rechtsänderungsmonitoring.
 - Mehr Verbraucher- und Bürgerprobleme: Reisen, Versicherung, Bank, Telekommunikation, Kaufrecht, Handwerker, Behördenbescheide.
+- Mehr Geschäftsbereiche außerhalb von Recht: Personal, Filialbetrieb, Einkauf, Supply Chain, Logistik, Immobilien und Expansion, Finanzen und Controlling, Marketing und Kunden, Onlinehandel, Customer Service, Revision, Kommunikation und Krise, Nachhaltigkeit sowie Qualität und Produktsicherheit.
 
 ## Qualitätsregeln
 
@@ -103,6 +108,7 @@ Beispiele:
 - `recht/datenschutz/datenschutz-folgenabschaetzung`
 - `recht/technologierecht/kuenstliche-intelligenz-systeme-klassifizieren`
 - `recht/anwaltliche-arbeitsmethoden/mandantenmemo-und-entscheidungsvorlage-erstellen`
+- `it-und-digital/kassensystem-stoerung-triagieren`
 - `skill-erstellung/skill-generation-best-practices`
 
 ## Mitwirken
