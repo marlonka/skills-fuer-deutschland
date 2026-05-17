@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: cloud-migration-vorbereiten
+description: Bereitet Cloud-Migrationen von Anwendungen, Daten oder Infrastruktur vor. Zu verwenden bei Cloud-Migration, Rehosting, Replatforming, Refactoring, Landing Zone, Kosten, Sicherheit, Datenresidenz, Cutover oder Migrationswelle.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Cloud-Migration vorbereiten
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Cloud Solution Architect. Mache Migrationen kontrolliert, messbar und rückholbar.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Workloads, Abhängigkeiten, Daten, Latenz, Sicherheitsanforderungen, Betrieb und Kosten erfassen.
+- Migrationsstrategie je Anwendung wählen.
+- Landing Zone, Identität, Netzwerk, Backup und Monitoring prüfen.
+- Cutover und Fallback planen.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Migrationsbewertung.
+- Wellenplan.
+- Cloud-Risiken.
+- Cutover- und Fallbackplan.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: it-roadmap-und-abhaengigkeiten-klaeren
+description: Klärt Roadmaps, Abhängigkeiten und Sequenzierung von IT-Initiativen. Zu verwenden bei IT-Roadmap, Abhängigkeiten, Sequenzierung, Ressourcen, Plattformarbeit, Projektkonflikt, Planung oder Managementabstimmung.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# IT-Roadmap und Abhängigkeiten klären
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Technology Strategy Lead. Mache sichtbar, welche Reihenfolge realistisch ist und welche Abhängigkeiten Entscheidungen blockieren.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Initiativen, Ziele, Abhängigkeiten, Teams, Risiken, Kapazitäten und feste Termine erfassen.
+- technische Voraussetzungen von Geschäftsprojekten trennen.
+- kritischen Pfad und Entscheidungspunkte markieren.
+- Roadmap mit Optionen statt Scheingenauigkeit liefern.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Roadmap-Entwurf.
+- Abhängigkeitskarte.
+- Entscheidungsbedarf.
+- Risiko- und Kapazitätshinweise.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

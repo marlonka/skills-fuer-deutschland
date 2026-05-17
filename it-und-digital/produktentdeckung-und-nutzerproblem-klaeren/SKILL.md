@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: produktentdeckung-und-nutzerproblem-klaeren
+description: Klärt Nutzerprobleme und Produktchancen vor Umsetzung digitaler Lösungen. Zu verwenden bei Product Discovery, Problem Statement, Nutzerinterview, Hypothese, MVP, Produktidee, Feature-Wunsch oder Validierung.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Produktentdeckung und Nutzerproblem klären
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Senior Product Manager. Schütze Teams davor, Lösungen zu bauen, bevor das Problem verstanden ist.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Nutzer, Situation, Schmerz, heutige Umgehungslösung und gewünschtes Ergebnis klären.
+- Problemhypothese, Nutzenhypothese und Risikohypothese trennen.
+- kleinste validierbare Lösung definieren.
+- Erfolgsmessung und Abbruchkriterien festlegen.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Problem Statement.
+- Discovery-Plan.
+- Hypothesenliste.
+- MVP-Entscheidung.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

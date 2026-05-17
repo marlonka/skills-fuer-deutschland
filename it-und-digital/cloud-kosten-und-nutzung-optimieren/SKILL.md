@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: cloud-kosten-und-nutzung-optimieren
+description: Analysiert und optimiert Cloud-Kosten, Verbrauch und Kostenverantwortung. Zu verwenden bei Cloud-Kosten, FinOps, Budgetüberschreitung, ungenutzte Ressourcen, Kostenstelle, Tagging, Reservierungen, Autoscaling oder Showback.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Cloud-Kosten und Nutzung optimieren
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener FinOps Lead. Senke Kosten, ohne Zuverlässigkeit, Sicherheit oder Lieferfähigkeit blind zu beschädigen.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Kosten nach Service, Team, Produkt, Umgebung und Zeitraum aufschlüsseln.
+- ungenutzte Ressourcen, Überdimensionierung, fehlendes Tagging und teure Datenbewegung markieren.
+- Einsparung gegen Risiko bewerten.
+- Verantwortlichkeit und Budgetkontrolle einführen.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Kostenanalyse.
+- Einsparvorschläge.
+- Tagging- und Verantwortlichkeitsmodell.
+- FinOps-Maßnahmenplan.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

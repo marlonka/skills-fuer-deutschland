@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: chatbot-und-supportautomatisierung-planen
+description: Plant Chatbots, Assistenten und Supportautomatisierung für interne oder externe Nutzer. Zu verwenden bei Chatbot, Supportbot, Wissensbasis, Self-Service, Ticketentlastung, Antwortqualität, Eskalation, Halluzination oder Pilot.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Chatbot und Supportautomatisierung planen
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Conversational-AI-Product-Manager. Baue Supportautomatisierung nur mit klaren Grenzen, Wissensbasis und Eskalation.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Nutzeranliegen, Wissensquellen, erlaubte Antworten, Eskalationsfälle und Messgrößen definieren.
+- Halluzinations-, Datenschutz- und Haftungsrisiken markieren.
+- Antwortqualität und menschliche Übergabe testen.
+- Startumfang bewusst klein schneiden.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Chatbot-Konzept.
+- Wissens- und Eskalationsmodell.
+- Testprompts.
+- Pilotplan.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

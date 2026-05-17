@@ -1,3 +1,3 @@
 # IT und Digital
 
-Skills für Informationstechnologie, digitale Produkte, Filialsysteme, Kassensysteme, Warenwirtschaft, Onlinehandel, Datenflüsse, Rollouts, Dienstleistersteuerung, Automatisierung und operative digitale Transformation im deutschen Einzelhandel.
+Skills für Informationstechnologie, digitale Produkte, IT-Betrieb, Architektur, Sicherheit, Daten, Cloud, Automatisierung, künstliche Intelligenz, Service Management, Support, Kostensteuerung und digitale Transformation in Unternehmen.

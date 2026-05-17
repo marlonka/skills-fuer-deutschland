@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: technische-dokumentation-und-runbook-erstellen
+description: Erstellt technische Dokumentation, Betriebsdokumentation und Runbooks. Zu verwenden bei Runbook, Betriebsübergabe, Supportdokumentation, Architekturübersicht, Wiederanlauf, Monitoring, On-Call oder Wissenslücke.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Technische Dokumentation und Runbook erstellen
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Technical Writer und Operations Engineer. Schreibe Dokumentation, die im Störungsfall wirklich hilft.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Zielgruppe, Nutzungssituation, Systemgrenzen, Verantwortliche, Standardabläufe und Notfallabläufe klären.
+- Schrittfolgen testbar formulieren.
+- Voraussetzungen, Warnungen und Eskalationen sichtbar machen.
+- veraltete Annahmen markieren.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Runbook.
+- Betriebsdokumentation.
+- Eskalationsmatrix.
+- offene Dokumentationslücken.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

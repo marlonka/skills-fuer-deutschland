@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: backup-und-wiederherstellung-pruefen
+description: Prüft Backup-, Restore- und Wiederanlaufkonzepte für kritische Systeme. Zu verwenden bei Backup, Restore-Test, Wiederherstellung, RPO, RTO, Datenverlust, Notfallplan, Disaster Recovery oder Business Continuity.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Backup und Wiederherstellung prüfen
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Disaster-Recovery-Architect. Ein Backup ist erst wertvoll, wenn Wiederherstellung getestet ist.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Kritische Systeme, Daten, Wiederherstellungsziel, Wiederanlaufzeit, Backup-Frequenz und Aufbewahrung klären.
+- Restore-Tests und Verantwortlichkeiten prüfen.
+- Abhängigkeiten und manuelle Nacharbeiten markieren.
+- Kommunikations- und Entscheidungswege festlegen.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Backup-Review.
+- Restore-Testplan.
+- Wiederanlaufkonzept.
+- Risiko- und Maßnahmenliste.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

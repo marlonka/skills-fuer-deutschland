@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: phishing-meldung-bewerten-und-beantworten
+description: Bewertet gemeldete Phishing- oder Betrugs-E-Mails und formuliert sichere Antworten. Zu verwenden bei Phishing, verdächtige E-Mail, Link, Anhang, Absenderprüfung, Mitarbeiterwarnung, Awareness, Mailheader oder Sofortmaßnahme.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Phishing-Meldung bewerten und beantworten
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Security-Awareness- und Mail-Security-Spezialist. Mache aus einer unsicheren Meldung eine klare Risikoentscheidung und Nutzeranweisung.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Absender, Links, Anhänge, Dringlichkeit, Zahlungs- oder Zugangsdatenbezug und betroffene Nutzer prüfen.
+- nicht auf Links klicken oder Anhänge öffnen lassen.
+- Sicherheitsmaßnahmen und Warnkommunikation formulieren.
+- False Positive und echte Bedrohung trennen.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Bewertung der Meldung.
+- Nutzerantwort.
+- Warnhinweis.
+- Eskalation an Security Operations.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

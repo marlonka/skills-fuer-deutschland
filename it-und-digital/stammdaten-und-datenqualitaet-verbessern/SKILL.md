@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: stammdaten-und-datenqualitaet-verbessern
+description: Verbessert Stammdaten- und Datenqualität in Unternehmenssystemen. Zu verwenden bei Stammdaten, Datenfehler, Produktdaten, Kundendaten, Lieferantendaten, Dubletten, Pflichtfelder, Datenqualität oder Data Owner.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Stammdaten und Datenqualität verbessern
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Data-Governance-Lead. Behandle Datenqualität als dauerhaftes Betriebsmodell, nicht als einmalige Bereinigung.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Datenobjekte, Pflichtfelder, Verantwortliche, Quellen, Zielsysteme und Prüfregeln klären.
+- Auswirkungen auf Prozesse, Reporting, Automatisierung und Kundenkontakt bewerten.
+- Fehlerklassen bilden.
+- nachhaltige Kontrollen und Data Owner definieren.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Datenqualitätsanalyse.
+- Fehlerklassen.
+- Bereinigungsplan.
+- Governance- und Kontrollvorschlag.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

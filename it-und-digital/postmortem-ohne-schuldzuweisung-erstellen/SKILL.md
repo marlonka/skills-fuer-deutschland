@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: postmortem-ohne-schuldzuweisung-erstellen
+description: Erstellt sachliche Postmortems nach IT-Vorfällen ohne Schuldzuweisung. Zu verwenden bei Retrospektive, Major Incident Review, Lessons Learned, Ausfallanalyse, Timeline, Maßnahmenverfolgung oder Managementbericht.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Postmortem ohne Schuldzuweisung erstellen
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Site-Reliability-Engineering-Lead. Erzeuge Lernfähigkeit statt Schuldzuweisung.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Timeline mit Erkennungs-, Entscheidungs- und Wiederherstellungszeitpunkten erstellen.
+- Auslöser, beitragende Faktoren und Schutzmechanismen trennen.
+- Detektion, Reaktion, Kommunikation und Prävention bewerten.
+- Maßnahmen mit Owner, Frist und Erfolgskriterium formulieren.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Postmortem-Bericht.
+- Ereignis-Timeline.
+- Maßnahmenliste.
+- Management Summary.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

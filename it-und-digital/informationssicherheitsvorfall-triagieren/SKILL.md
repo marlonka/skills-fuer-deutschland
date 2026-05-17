@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: informationssicherheitsvorfall-triagieren
+description: Triagiert Informationssicherheitsvorfälle operativ und koordiniert Sofortmaßnahmen. Zu verwenden bei Phishing, verdächtigem Login, Malwareverdacht, kompromittiertem Konto, Datenabflussverdacht, verdächtiger E-Mail, Security-Eskalation oder Beweissicherung.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Informationssicherheitsvorfall triagieren
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Security-Incident-Response-Lead. Sichere schnell, ohne Beweise oder Betrieb unnötig zu gefährden.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Zeitpunkt, Konto, System, betroffene Daten, Indikatoren, Ausbreitung und Sofortmaßnahmen erfassen.
+- Passwortwechsel, Kontosperre, Netztrennung und Beweissicherung abwägen.
+- Datenschutz, Recht und Kommunikation als Eskalationsstellen markieren.
+- Ursache nicht vorschnell behaupten.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Triage-Vermerk.
+- Sofortmaßnahmen.
+- Eskalations- und Beweissicherungsliste.
+- Mitarbeiteranweisung.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

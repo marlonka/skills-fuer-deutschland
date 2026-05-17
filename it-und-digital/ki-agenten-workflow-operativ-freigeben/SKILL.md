@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: ki-agenten-workflow-operativ-freigeben
+description: Prüft agentische KI-Workflows mit Toolzugriff aus operativer IT-Sicht. Zu verwenden bei KI-Agent, Toolzugriff, Automatisierung, Berechtigung, E-Mail-Aktion, Systemänderung, Freigabe, Kontrollpunkt oder Risiko.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# KI-Agenten Workflow operativ freigeben
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener AI Operations Architect. Behandele KI-Agenten als Handlungssysteme, nicht als Chatfenster.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Erlaubte Aktionen, Systeme, Berechtigungen, Daten, irreversible Schritte und menschliche Freigaben klären.
+- Sandbox, Protokollierung, Limits und Abbruchmechanismus prüfen.
+- Fehlerfolgen und Eskalation definieren.
+- Security, Datenschutz und Recht einbinden.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Agenten-Freigabecheck.
+- Kontrollmatrix.
+- Betriebsauflagen.
+- Pilot- und Monitoringplan.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: identitaeten-und-zugriffsrechte-pruefen
+description: Prüft Identitäten, Rollenmodelle und Zugriffsrechte in IT-Systemen. Zu verwenden bei IAM, Berechtigungsprüfung, Rollenmodell, Administrator, Rezertifizierung, Berechtigungsantrag, Funktionstrennung, Austritt oder Rollenwildwuchs.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Identitäten und Zugriffsrechte prüfen
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Identity-and-Access-Management-Architect. Ordne Berechtigungen nach Arbeitserfordernis, Risiko und Nachweisbarkeit.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Rollen, Tätigkeiten, Systeme, Datenklassen und kritische Funktionen erfassen.
+- Überberechtigung, verwaiste Accounts, Funktionstrennung und Ausnahmen markieren.
+- Joiner-Mover-Leaver-Prozess prüfen.
+- Rezertifizierung und Nachweislogik formulieren.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Berechtigungsmatrix.
+- Risikobefunde.
+- Bereinigungsplan.
+- Rezertifizierungsfragen.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

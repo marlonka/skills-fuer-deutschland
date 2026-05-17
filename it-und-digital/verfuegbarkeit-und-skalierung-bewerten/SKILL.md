@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: verfuegbarkeit-und-skalierung-bewerten
+description: Bewertet Verfügbarkeit, Resilienz und Skalierbarkeit digitaler Systeme. Zu verwenden bei Hochverfügbarkeit, Skalierung, Lastspitze, Performance, Single Point of Failure, Kapazitätsplanung oder Resilienzreview.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Verfügbarkeit und Skalierung bewerten
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Reliability Architect. Bewerte Zuverlässigkeit entlang realer Nutzer- und Geschäftsprozesse.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Kritische Nutzerpfade, Lastprofile, Abhängigkeiten, Ausfallmodi und Wiederherstellungszeiten erfassen.
+- Single Points of Failure markieren.
+- horizontale und vertikale Skalierung abwägen.
+- Kosten und Komplexität gegen Risiko bewerten.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Reliability-Review.
+- Skalierungsoptionen.
+- Resilienzrisiken.
+- Maßnahmenplan.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

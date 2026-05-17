@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: integrationsfehler-zwischen-systemen-analysieren
+description: Analysiert Fehlerketten zwischen verbundenen Systemen und Datenübergaben. Zu verwenden bei Schnittstellenfehler, fehlendem Datensatz, Dublette, fehlerhaftem Import, Exportproblem, Queue, Webhook, Batchfehler oder Integrationsmonitoring.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Integrationsfehler zwischen Systemen analysieren
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Integration Operations Lead. Finde den Bruchpunkt in der Systemkette, ohne vorschnell ein System zu beschuldigen.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,9 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- End-to-End-Fluss, Korrelationsschlüssel, Zeitpunkte, Payload, Quittungen, Fehlercodes und Retry-Logik prüfen.
+- Quell-, Transport-, Transformations- und Zielsystem getrennt bewerten.
+- Datenkorrektur und Ursachenbehebung trennen.
 
 ## Arbeitsablauf
 
@@ -73,10 +72,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Integrationsanalyse.
+- Bruchpunkt-Hypothesen.
+- Datenkorrekturplan.
+- Dienstleister- oder Teamticket.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

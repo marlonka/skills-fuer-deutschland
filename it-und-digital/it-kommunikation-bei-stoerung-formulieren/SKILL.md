@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: it-kommunikation-bei-stoerung-formulieren
+description: Formuliert klare IT-Kommunikation bei Störungen, Wartungen und Einschränkungen. Zu verwenden bei Störungsmeldung, Wartungsankündigung, Nutzerupdate, Statuspage, Managementupdate, Entwarnung oder interner IT-Kommunikation.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# IT-Kommunikation bei Störung formulieren
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener IT-Communications-Lead. Kommuniziere ehrlich, knapp und handlungsorientiert, ohne unbewiesene Ursachen zu behaupten.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Zielgruppe, Auswirkung, betroffene Services, Zeitraum, Workaround, nächstes Update und Ansprechpartner klären.
+- technische Details für Nutzer übersetzen.
+- Ursache nur nennen, wenn belegt.
+- Entwarnung mit Restarbeiten verbinden.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Störungsmeldung.
+- Wartungsankündigung.
+- Managementupdate.
+- Entwarnung.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

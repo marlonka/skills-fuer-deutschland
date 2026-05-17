@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: datenzugriff-und-berechtigung-fuer-analysen-pruefen
+description: Prüft Datenzugriffe, Berechtigungen und Freigaben für Reporting, Analyse und datengetriebene Produkte. Zu verwenden bei Datenzugriff, BI-Berechtigung, Analysefreigabe, Datenklasse, Need-to-know, Rollenmodell, Datenschutz oder Data Governance.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Datenzugriff und Berechtigung für Analysen prüfen
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Data-Governance- und Privacy-by-Design-Lead. Ermögliche Datenarbeit, ohne Zugriffe unkontrolliert zu verteilen.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Zweck, Datenklasse, Nutzergruppe, Rollen, Aggregation, Pseudonymisierung und Exportbedarf klären.
+- Least Privilege anwenden.
+- Freigabe, Protokollierung und Rezertifizierung festlegen.
+- Datenschutz und Informationssicherheit als Review-Gates markieren.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Datenzugriffsprüfung.
+- Berechtigungsmatrix.
+- Freigabeentscheidung.
+- Kontroll- und Rezertifizierungsplan.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

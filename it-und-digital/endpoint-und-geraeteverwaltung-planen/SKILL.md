@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: endpoint-und-geraeteverwaltung-planen
+description: Plant Verwaltung, Absicherung und Lebenszyklus von Endgeräten. Zu verwenden bei Laptop, Smartphone, Tablet, Mobile Device Management, Patch, Gerätekonfiguration, Verlust, Ersatzgerät, Verschlüsselung oder Support.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Endpoint und Geräteverwaltung planen
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Endpoint-Management-Architect. Mache Geräteflotten sicher, standardisiert und supportbar.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Gerätetypen, Nutzergruppen, Betriebssysteme, Baseline-Konfiguration, Verschlüsselung, Updates, Inventar und Support klären.
+- Verlust, Defekt, Austausch und Rückgabe als Standardfälle planen.
+- lokale Adminrechte und Ausnahmen prüfen.
+- Lebenszyklus und Kosten berücksichtigen.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Endpoint-Konzept.
+- Gerätestandard.
+- Support- und Ersatzprozess.
+- Sicherheits- und Lebenszyklusplan.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: prozessautomatisierung-bewerten
+description: Bewertet Automatisierungspotenziale in Unternehmensprozessen. Zu verwenden bei Prozessautomatisierung, manuellem Aufwand, Excel-Prozess, E-Mail-Routine, Robotic Process Automation, Workflow, Freigabe, Effizienz oder Automatisierungsroadmap.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Prozessautomatisierung bewerten
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Automation Lead. Empfiehl Automatisierung nur dort, wo Prozess, Daten und Kontrolle reif genug sind.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Volumen, Varianz, Fehlerquote, Regelbarkeit, Datenqualität, Ausnahmefälle und Kontrollbedarf prüfen.
+- schnelle Entlastung von riskanter Vollautomatisierung trennen.
+- Nutzen, Aufwand, Risiko und Betriebsmodell bewerten.
+- Pilot mit klaren Messgrößen vorschlagen.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Automatisierungsbewertung.
+- Priorisierungsmatrix.
+- Pilotvorschlag.
+- Risiko- und Kontrollhinweise.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: technische-schulden-priorisieren
+description: Priorisiert technische Schulden in Software, Infrastruktur und Datenplattformen. Zu verwenden bei Technical Debt, Wartbarkeit, instabilem System, Refactoring, Plattformarbeit, Backlog-Priorisierung oder Architektur-Risiko.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Technische Schulden priorisieren
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Engineering Manager und Staff Engineer. Mache technische Schulden als Geschäftsrisiko und Lieferfähigkeitsproblem sichtbar.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Auswirkung auf Geschwindigkeit, Stabilität, Sicherheit, Kosten und Änderbarkeit bewerten.
+- sichtbare Symptome mit Ursachen verbinden.
+- Schulden nach Dringlichkeit und Hebel priorisieren.
+- kleine Verbesserungen und größere Modernisierung trennen.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Technical-Debt-Register.
+- Priorisierung.
+- Business Impact.
+- Umsetzungsplan.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

@@ -8,7 +8,7 @@ Viele öffentliche Skill-Sammlungen sind englisch, amerikanisch geprägt oder zu
 
 Der erste Schwerpunkt ist Recht: Skills sollen Entwürfe, Prüfvermerke, Lückenlisten, Risikoanalysen, Vertragsvergleiche, Verhandlungsunterlagen und Entscheidungsvorlagen so vorbereiten, dass erfahrene Juristen schneller zu belastbaren Ergebnissen kommen.
 
-Der zweite gestartete Geschäftsbereich ist `it-und-digital/` für operative Informationstechnologie und digitale Prozesse in großen Einzelhandelsunternehmen mit vielen Filialen.
+Der zweite gestartete Geschäftsbereich ist `it-und-digital/` für operative Informationstechnologie, digitale Produkte, IT-Betrieb, Architektur, Sicherheit, Daten, Cloud, Automatisierung und digitale Transformation in Unternehmen.
 
 Außerhalb von `recht/` gibt es Meta-Skills für die Skill-Erstellung selbst, etwa `skill-erstellung/skill-generation-best-practices`.
 
@@ -73,7 +73,7 @@ Weitere vorhandene Bereiche:
 
 Querschnittlich gibt es außerdem `anwaltliche-arbeitsmethoden` für Mandatsaufnahme, Mandantenmemos, Mandanten-E-Mails, Praxismemos und Risikoampeln.
 
-Außerhalb des Rechtsbereichs ist `it-und-digital` gestartet: Kassensysteme, Filialnetzwerk, Systemausfälle, Rollouts, Warenwirtschaft, Dienstleistersteuerung, Anforderungen, Softwareauswahl, Datenflüsse, Produktdaten, Onlinehandel, Abholung in der Filiale, Filial-Apps, Zugriffsrechte, Releases, Tests, Migrationen, Dashboards, Automatisierung, künstliche Intelligenz, IT-Kosten, Informationssicherheitsvorfälle und Filialhardware.
+Außerhalb des Rechtsbereichs ist `it-und-digital` gestartet: Incident Management, Problem Management, Releases, Anforderungen, Product Discovery, Softwareauswahl, Dienstleistersteuerung, Service Level, Architektur, Schnittstellen, Migrationen, Datenqualität, Analytics, Cloud, Backup, Monitoring, Performance, Identitäten, Endgeräte, Schwachstellen, Informationssicherheit, Tests, Dokumentation, Betriebsübergabe, Modernisierung, IT-Kosten, Business Cases, Automatisierung, künstliche Intelligenz, Support, Kollaboration, Website- und App-Releases, Datenschutzanforderungen und IT-Roadmaps.
 
 ## Was noch möglich wäre
 
@@ -108,7 +108,7 @@ Beispiele:
 - `recht/datenschutz/datenschutz-folgenabschaetzung`
 - `recht/technologierecht/kuenstliche-intelligenz-systeme-klassifizieren`
 - `recht/anwaltliche-arbeitsmethoden/mandantenmemo-und-entscheidungsvorlage-erstellen`
-- `it-und-digital/kassensystem-stoerung-triagieren`
+- `it-und-digital/incident-priorisieren-und-eskalieren`
 - `skill-erstellung/skill-generation-best-practices`
 
 ## Mitwirken

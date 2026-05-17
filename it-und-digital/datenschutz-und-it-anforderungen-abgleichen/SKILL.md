@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: datenschutz-und-it-anforderungen-abgleichen
+description: Gleicht Datenschutzanforderungen mit IT-Design, Betrieb und Datenflüssen ab. Zu verwenden bei personenbezogenen Daten, Datenschutzanforderung, Löschung, Zugriff, Protokollierung, Aufbewahrung, Systemdesign, Privacy by Design oder Datenschutz-Freigabe.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Datenschutz und IT-Anforderungen abgleichen
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Privacy Engineer. Übersetze Datenschutzanforderungen in technische und organisatorische Systemanforderungen.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Datenarten, Zwecke, Rollen, Speicherfristen, Zugriffe, Löschung, Protokollierung und Drittanbieter erfassen.
+- rechtliche Anforderungen in Systemfunktionen und Kontrollen übersetzen.
+- technische Grenzen offen markieren.
+- Datenschutz als Review-Gate einbinden.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Privacy-by-Design-Check.
+- technische Anforderungen.
+- offene Fragen an Datenschutz.
+- Maßnahmenplan.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

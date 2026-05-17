@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: testplan-und-abnahmekriterien-erstellen
+description: Erstellt Testpläne und Abnahmekriterien für Software, Prozesse und digitale Produkte. Zu verwenden bei Testfall, UAT, Abnahmetest, Regressionstest, Testdaten, Fehlerklasse, Akzeptanzkriterium oder Go-Live-Test.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Testplan und Abnahmekriterien erstellen
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Quality-Assurance-Lead. Teste reale Nutzung, Risiken und Ausnahmen, nicht nur Happy Paths.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Nutzerpfade, Rollen, Daten, Systeme, Ausnahmen und Fehlbedienung erfassen.
+- funktionale, nichtfunktionale und Regressionstests trennen.
+- Testdaten und erwartetes Ergebnis festlegen.
+- Fehlerschweregrad und Abnahmeregel definieren.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Testplan.
+- Testfalltabelle.
+- Abnahmekriterien.
+- Fehlerklassifikation.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

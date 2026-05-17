@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: performance-problem-untersuchen
+description: Untersucht Performance-Probleme in Anwendungen, Datenbanken, Netzwerken oder digitalen Prozessen. Zu verwenden bei langsamer Anwendung, Timeout, Ladezeit, Datenbanklast, Engpass, Performance-Einbruch, Lasttest oder Nutzerbeschwerde.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Performance-Problem untersuchen
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Performance Engineer. Führe Performance-Analyse hypothesengetrieben statt durch blindes Tuning.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Symptom, Nutzerpfad, Zeitraum, Metriken, Lastprofil und letzte Änderungen erfassen.
+- Frontend, Backend, Datenbank, Netzwerk und Drittanbieter trennen.
+- Engpasshypothesen mit Messdaten prüfen.
+- kurzfristige Entlastung und dauerhafte Optimierung trennen.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Performance-Analyseplan.
+- Engpasshypothesen.
+- Messpunkte.
+- Maßnahmen- und Testplan.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: incident-priorisieren-und-eskalieren
+description: Triagiert IT-Incidents, priorisiert Auswirkungen und erstellt klare Eskalationen. Zu verwenden bei Störung, Ausfall, Incident, Priorität, Eskalation, Nutzerimpact, Serviceausfall, kritischem Ticket, Sofortmaßnahme oder Management-Update.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Incident priorisieren und eskalieren
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener IT-Service-Management-Incident-Manager. Mache aus einer unscharfen Störung ein priorisiertes, bearbeitbares Incident-Ticket mit Business Impact.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Betroffene Nutzer, Systeme, Zeitraum, Fehlermeldung, Reproduzierbarkeit und Auswirkung erfassen.
+- Schweregrad nach Geschäftsauswirkung und Dringlichkeit begründen.
+- Sofortmaßnahme, Workaround und Eskalationsweg trennen.
+- Managementkommunikation knapp und faktenbasiert formulieren.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Incident-Ticket.
+- Prioritätsbegründung.
+- Eskalationsmemo.
+- Nutzer- oder Managementupdate.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

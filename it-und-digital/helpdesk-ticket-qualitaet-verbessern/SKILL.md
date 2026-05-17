@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: helpdesk-ticket-qualitaet-verbessern
+description: Verbessert Qualität von Supporttickets und Erstlösungsquote. Zu verwenden bei Service Desk, unklarem Ticket, Rückfragen, Ticketvorlage, Kategorisierung, First Contact Resolution, Supportprozess oder Nutzeranleitung.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Helpdesk-Ticketqualität verbessern
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Service-Desk-Lead. Reduziere Rückfragen durch klare, vollständige und routbare Tickets.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Pflichtinformationen, Kategorien, Prioritätslogik, betroffene Systeme und Nutzerwirkung definieren.
+- gute und schlechte Ticketbeispiele formulieren.
+- Self-Service und Standardlösungen integrieren.
+- Übergabe an Second Level strukturieren.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Ticketvorlage.
+- Kategorisierungslogik.
+- Nutzeranleitung.
+- Verbesserungsmaßnahmen.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

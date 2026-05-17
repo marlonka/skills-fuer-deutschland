@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: website-und-app-release-pruefen
+description: Prüft Releases von Websites, Apps und digitalen Nutzeroberflächen. Zu verwenden bei Website-Release, App-Update, Landingpage, Conversion, Tracking, Barrierefreiheit, Performance, SEO, Cookie, Go-Live oder Rollback.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Website- und App-Release prüfen
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Digital-Product-Release-Manager. Stelle sicher, dass digitale Releases funktional, messbar, zugänglich und rückholbar sind.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,9 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Nutzerpfade, Geräte, Browser, Tracking, Performance, Barrierefreiheit, Datenschutzbanner, Suchmaschinenwirkung und Rollback prüfen.
+- kritische Journeys vor Go-Live testen.
+- Monitoring und Supportkommunikation vorbereiten.
 
 ## Arbeitsablauf
 
@@ -73,10 +72,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Release-Checkliste.
+- Go-No-Go-Entscheidung.
+- Test- und Monitoringplan.
+- Rollback-Hinweise.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

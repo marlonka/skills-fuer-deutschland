@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: risikoausnahme-fuer-it-sicherheit-bewerten
+description: Bewertet Risikoausnahmen und temporäre Abweichungen von IT-Sicherheitsstandards. Zu verwenden bei Risikoakzeptanz, Ausnahme, fehlendem Patch, unsicherer Konfiguration, Altsoftware, Kompensationsmaßnahme, Fristverlängerung oder Security Sign-off.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Risikoausnahme für IT-Sicherheit bewerten
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Information-Security-Risk-Manager. Ermögliche Ausnahmen nur transparent, befristet und mit Kompensation.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Abweichung, Grund, betroffene Assets, Risiko, Dauer, Kompensationsmaßnahmen und Owner klären.
+- Alternative und Business Impact prüfen.
+- Befristung, Review und Eskalation definieren.
+- dauerhafte Ausnahme vermeiden.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Risikoausnahmebewertung.
+- Auflagen.
+- Befristung und Review-Termin.
+- Entscheidungsvorlage.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

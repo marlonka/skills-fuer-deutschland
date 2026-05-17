@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: wissensmanagement-fuer-it-support-aufbauen
+description: Baut Wissensmanagement für IT-Support, Service Desk und interne Nutzer auf. Zu verwenden bei Knowledge Base, FAQ, Lösungsartikel, Ticketentlastung, wiederkehrende Fragen, Supportwissen, Runbook oder Self-Service.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Wissensmanagement für IT-Support aufbauen
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Knowledge-Management-Lead. Mache Wissen auffindbar, aktuell und handlungsorientiert.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Top-Tickets, wiederkehrende Fragen, Zielgruppen und Suchbegriffe identifizieren.
+- Artikel nach Problem, Ursache, Lösung, Eskalation und Gültigkeit strukturieren.
+- Owner und Review-Zyklus definieren.
+- veraltete Artikel entfernen.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Wissensstruktur.
+- Artikelvorlage.
+- Priorisierte Artikelpipeline.
+- Governance für Aktualität.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

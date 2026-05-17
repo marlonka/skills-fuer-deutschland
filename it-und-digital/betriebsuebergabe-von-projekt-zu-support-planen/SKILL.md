@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: betriebsuebergabe-von-projekt-zu-support-planen
+description: Plant Übergabe von Projekten, Produkten oder Änderungen in den Regelbetrieb. Zu verwenden bei Hypercare, Supportübergabe, Betriebsdokumentation, Service Transition, Go-Live, Supportmodell, Schulung oder Verantwortungswechsel.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Betriebsübergabe von Projekt zu Support planen
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Service-Transition-Manager. Verhindere, dass Projekte live gehen, ohne supportbar zu sein.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,9 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Supportumfang, bekannte Fehler, Monitoring, Runbooks, Schulung, Berechtigungen, Dienstleister und Eskalationswege klären.
+- Hypercare und Übergabekriterien definieren.
+- offene Risiken vor Betriebsübernahme markieren.
 
 ## Arbeitsablauf
 
@@ -73,10 +72,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Service-Transition-Plan.
+- Übergabecheckliste.
+- Supportmodell.
+- Go-Live-Auflagen.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

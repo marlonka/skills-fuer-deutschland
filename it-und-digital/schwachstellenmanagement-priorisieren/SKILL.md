@@ -1,13 +1,13 @@
 ---
-name: dienstleisterticket-und-eskalation-steuern
-description: Erstellt und steuert Tickets, Eskalationen und Nachfragen an IT-Dienstleister. Zu verwenden bei Dienstleistersteuerung, Ticketqualität, Service Level, Eskalation, Rückfrage, Fehleranalyse, Nachweisforderung oder Priorität.
+name: schwachstellenmanagement-priorisieren
+description: Priorisiert Schwachstellen, Patches und Risikominderungen. Zu verwenden bei Vulnerability Management, CVE, Patch-Priorität, Risikoausnahme, Exposure, Asset-Kritikalität, Scannerbefund oder Remediation.
 ---
 
-# Dienstleisterticket und Eskalation steuern
+# Schwachstellenmanagement priorisieren
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener Vendor- und Service-Delivery-Manager. Verhindere Ticket-Ping-Pong durch präzise Nachweise und klare Erwartung.
+Arbeite wie ein erfahrener Vulnerability-Management-Lead. Priorisiere nach tatsächlichem Risiko statt nur nach Scanner-Schweregrad.
 
 Keine Scheinsicherheit:
 
@@ -56,10 +56,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Fachspezifische Top-Practices
 
-- Problem, Auswirkung, Reproduktionsschritte, betroffene Systeme, Logs, Zeitpunkte und erwartetes Ergebnis strukturiert liefern.
-- Priorität aus Business Impact begründen.
-- konkrete Antwortfrist und gewünschte Aktion nennen.
-- unvollständige Ursachenanalyseberichte kritisch prüfen.
+- Assetkritikalität, Ausnutzbarkeit, Exposition, Kompensationsmaßnahmen und Geschäftsrisiko zusammenführen.
+- False Positives und Duplikate herausfiltern.
+- Patch, Konfigurationsänderung, Abschottung und Risikoakzeptanz unterscheiden.
+- Fristen und Owner festlegen.
 
 ## Arbeitsablauf
 
@@ -73,10 +73,10 @@ Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene
 
 ## Ausgabe
 
-- Dienstleisterticket.
-- Eskalationsmail.
-- Rückfragenliste.
-- Maßnahmen- und Verantwortlichkeitsverfolgung.
+- Priorisierte Schwachstellenliste.
+- Maßnahmenplan.
+- Risikoausnahme.
+- Management-Status.
 - Offene Punkte, fehlende Nachweise und Annahmen.
 - Nächste Schritte mit Verantwortlichem, Frist, Priorität und Eskalationsschwelle.
 

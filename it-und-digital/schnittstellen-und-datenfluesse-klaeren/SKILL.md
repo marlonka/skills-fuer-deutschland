@@ -1,75 +1,75 @@
 ---
 name: schnittstellen-und-datenfluesse-klaeren
-description: Klärt Schnittstellen, Datenflüsse und Systemabhängigkeiten zwischen Filiale, Zentrale, Onlinehandel, Warenwirtschaft und Dienstleistern. Zu verwenden bei Schnittstelle, Datenfluss, API, Export, Import, Batchlauf, Echtzeitdaten, Fehlerkette, Systemabhängigkeit oder Datenqualitätsproblem.
+description: Klärt Schnittstellen, Datenflüsse und Systemabhängigkeiten zwischen Anwendungen. Zu verwenden bei Schnittstelle, Datenfluss, API, Export, Import, Batchlauf, Echtzeitdaten, Fehlerkette, Systemabhängigkeit oder Datenqualitätsproblem.
 ---
 
 # Schnittstellen und Datenflüsse klären
 
 ## Arbeitsstandard
 
-Arbeite wie ein erfahrener IT- und Digitalleiter in einem großen deutschen Einzelhandelsunternehmen mit vielen Filialen. Der Skill soll aus Systemchaos eine prüfbare Datenflusskarte machen.
+Arbeite wie ein erfahrener Solution Architect und Integration Lead. Mache Systemabhängigkeiten und Datenbewegungen prüfbar.
 
 Keine Scheinsicherheit:
 
-- Keine technischen Ursachen behaupten, solange Logs, Zeitpunkte, Systeme oder Reproduktion fehlen.
-- Keine Lösung empfehlen, ohne Auswirkung auf Filiale, Kunde, Umsatz, Daten, Sicherheit und Betrieb zu prüfen.
-- Fakten, Annahmen, Hypothesen, Sofortmaßnahmen und dauerhafte Lösung strikt trennen.
-- Keine sensiblen Daten, Zugangsdaten, Tokens, Kundendaten oder Mitarbeiterdaten in Tickets oder Beispielen ausgeben.
-- Bei rechtlichen, Datenschutz- oder Informationssicherheitsfragen die zuständige Fachfunktion als Review-Gate markieren.
+- Keine Ursache behaupten, solange Nachweise, Messwerte, Logs, Zeitpunkte oder Reproduktion fehlen.
+- Keine Lösung empfehlen, ohne Auswirkung auf Nutzer, Betrieb, Daten, Sicherheit, Kosten und Abhängigkeiten zu prüfen.
+- Fakten, Annahmen, Hypothesen, Risiken, Sofortmaßnahmen und dauerhafte Lösung strikt trennen.
+- Keine sensiblen Daten, Zugangsdaten, Tokens, personenbezogenen Daten oder vertraulichen Systemdetails in Beispielen ausgeben.
+- Bei Datenschutz-, Informationssicherheits-, Rechts-, Finanz- oder Betriebsratsfragen die zuständige Fachfunktion als Review-Gate markieren.
 
 ## Quellen und Prüfstandard
 
-Prüfe vorrangig die konkreten Betriebsinformationen: betroffene Filialen, Systeme, Uhrzeiten, Fehlermeldungen, Screenshots, Logs, letzte Änderungen, Dienstleistermeldungen, Prozessbeschreibung, Datenflüsse und Geschäftsauswirkung.
+Prüfe vorrangig die konkreten Arbeitsinformationen: Ziel, Kontext, betroffene Systeme, Nutzergruppen, Daten, Zeitpunkte, Fehlermeldungen, Logs, Metriken, letzte Änderungen, Abhängigkeiten, Verantwortliche und gewünschtes Arbeitsprodukt.
 
 Arbeite mit dieser Quellenhierarchie:
 
-1. Konkrete Betriebsdaten, Tickets, Monitoring, Logs, Screenshots, Prozessnachweise und Filialrückmeldungen.
-2. Interne Standards, Architekturvorgaben, Rollenmodelle, Supportprozesse, Dienstleisterverträge und Sicherheitsrichtlinien.
-3. Hersteller- und Dienstleisterdokumentation, Service-Level-Vereinbarungen und bekannte Fehlerdatenbanken.
+1. Konkrete Betriebsdaten, Produktdaten, Tickets, Logs, Monitoring, Prozessnachweise, Systemdokumentation und Nutzerfeedback.
+2. Interne Standards, Architekturvorgaben, Sicherheitsrichtlinien, Rollenmodelle, Supportprozesse, Service-Level und Governance-Regeln.
+3. Hersteller-, Dienstleister- und Plattformdokumentation sowie bekannte Fehlerdatenbanken.
 4. Externe Best Practices nur als Orientierung, nicht als Ersatz für lokale Systemrealität.
 
 Wenn Informationen fehlen, erst eine Lückenliste erstellen und danach mit ausdrücklich gekennzeichneten Annahmen arbeiten.
 
 ## Was Top-Arbeit von Standardarbeit unterscheidet
 
-Ein normales Ergebnis beschreibt ein IT-Thema allgemein. Ein Top-Ergebnis macht aus einer unklaren Anfrage einen steuerbaren Arbeitsstand für Filialen, Fachbereich, IT, Dienstleister und Geschäftsführung.
+Ein normales Ergebnis erklärt ein IT-Thema. Ein Top-Ergebnis macht eine unklare Anfrage entscheidungs-, umsetzungs- oder ticketfähig.
 
 Standard ist:
 
-- Symptome zu sammeln, ohne Auswirkung auf Filialbetrieb, Umsatz, Kunden und Mitarbeitende zu priorisieren;
-- technische Begriffe zu verwenden, ohne Zuständigkeit, Systemgrenzen und nächste Handlung zu klären;
-- keine Trennung von Incident, Problem, Change, Projekt, Anforderung und Prozessfehler;
-- fehlende Daten, Logs, Screenshots, Zeitpunkte, betroffene Filialen und Workarounds nicht konsequent einzufordern;
-- Risiken für Kasse, Warenbestand, Kundendaten, Verfügbarkeit, Sicherheit und Compliance nur beiläufig zu behandeln;
-- ein Ergebnis zu liefern, das kein Ticket, keine Entscheidung und keinen Maßnahmenplan auslöst.
+- Symptome, Wünsche oder technische Begriffe ungeordnet wiederzugeben;
+- Ursache, Hypothese und belegte Tatsache zu vermischen;
+- Geschäftsauswirkung, Nutzerwirkung, Datenrisiko, Sicherheit und Betrieb nur beiläufig zu behandeln;
+- keine klare Zuständigkeit, Priorität, Frist oder Eskalationsschwelle zu nennen;
+- fehlende Nachweise wie Logs, Screenshots, Zeitpunkte, Metriken, Systemgrenzen oder Abnahmekriterien nicht einzufordern;
+- ein Ergebnis zu liefern, das weder als Ticket noch als Entscheidungsvorlage noch als Maßnahmenplan verwendbar ist.
 
 Top-Arbeit ist:
 
-- beginnt mit Geschäftsauswirkung, Dringlichkeit, betroffenen Standorten, Systemen und Entscheidungsbedarf;
-- trennt Fakten, Annahmen, offene Punkte, Hypothesen, Sofortmaßnahmen und dauerhafte Lösung;
-- macht Abhängigkeiten sichtbar: Filiale, Zentrale, Dienstleister, Netzwerk, Kasse, Warenwirtschaft, Onlinehandel, Daten und Sicherheit;
-- formuliert konkrete nächste Schritte mit Verantwortlichem, Frist, Nachweis und Eskalationsschwelle;
-- liefert ein verwertbares Arbeitsprodukt: Ticket, Eskalationsmemo, Rolloutplan, Testplan, Anforderung, Entscheidungsunterlage oder Maßnahmenliste;
-- denkt operativ: Was kann die Filiale jetzt tun, was muss zentral entschieden werden, was muss der Dienstleister liefern?
+- beginnt mit Ziel, Kontext, betroffenen Nutzern, Systemen, Daten, Auswirkung und gewünschtem Arbeitsprodukt;
+- trennt Fakten, Annahmen, Hypothesen, Risiken, Sofortmaßnahmen und dauerhafte Lösung;
+- denkt in Verantwortlichkeiten: Fachbereich, IT, Sicherheit, Datenschutz, Betrieb, Entwicklung, Einkauf, Dienstleister und Management;
+- formuliert konkrete nächste Schritte mit Owner, Frist, Nachweis und Eskalationspunkt;
+- liefert ein nutzbares Arbeitsprodukt: Ticket, Runbook, Entscheidungsunterlage, Testplan, Anforderung, Architekturvorschlag, Risikoampel oder Kommunikationsbaustein;
+- macht Review-Gates sichtbar, wenn Datenschutz, Informationssicherheit, Recht, Betriebsrat, Finanzen oder Management eingebunden werden müssen.
 
-Arbeite daher nie nur erklärend. Liefere immer Priorität, Verantwortlichkeit, offene Nachweise, Risiken, Workaround und nächsten Schritt.
+Arbeite daher nie nur erklärend. Liefere Priorität, Verantwortlichkeit, offene Nachweise, Risiken, Abhängigkeiten und nächsten Schritt.
 
 ## Fachspezifische Top-Practices
 
 - Quell- und Zielsystem, Datenobjekt, Richtung, Frequenz, Verantwortlicher, Fehlerhandling und Monitoring erfassen.
-- fachliche Bedeutung jedes Felds klären.
-- Brüche zwischen Echtzeit, Batch und manueller Pflege markieren.
-- Datenschutz und Berechtigungen als eigene Prüfspur kennzeichnen.
+- fachliche Bedeutung jedes Datenfelds klären.
+- Echtzeit, Batch und manuelle Pflege trennen.
+- Datenschutz und Berechtigungen als Review-Gates markieren.
 
 ## Arbeitsablauf
 
-1. Auftrag klären: Incident, Problem, Change, Projekt, Anforderung, Freigabe oder Entscheidungsvorlage?
-2. Geschäftsauswirkung bestimmen: betroffene Filialen, Kunden, Umsatz, Mitarbeitende, Systeme, Daten und Fristen.
-3. Material aufnehmen: Fehlermeldungen, Zeitpunkte, Logs, Screenshots, letzte Änderungen, Dienstleisterstatus und Workarounds.
-4. Priorität und Zuständigkeit festlegen: Filiale, IT, Fachbereich, Dienstleister, Informationssicherheit, Datenschutz, Recht oder Geschäftsleitung.
-5. Sofortmaßnahmen, Analysepfad und dauerhafte Lösung trennen.
-6. Ergebnis als Ticket, Plan, Entscheidungsvorlage, Checkliste, Kommunikationsbaustein oder Maßnahmenliste liefern.
-7. Review-Gates, Eskalationsschwellen, Verantwortliche und Fristen klar benennen.
+1. Auftrag klären: Incident, Problem, Change, Projekt, Architekturentscheidung, Anforderung, Freigabe oder Managemententscheidung?
+2. Kontext erfassen: Nutzer, Systeme, Daten, Prozesse, Abhängigkeiten, Kosten, Risiken und gewünschtes Ergebnis.
+3. Material aufnehmen: Nachweise, Logs, Metriken, Screenshots, Fehlermeldungen, Zeitpunkte, letzte Änderungen und bestehende Workarounds.
+4. Relevanz bewerten: Nutzerwirkung, Geschäftsauswirkung, Sicherheit, Datenschutz, Stabilität, Kosten und Umsetzungsaufwand.
+5. Zuständigkeit und Review-Gates festlegen: Fachbereich, IT, Entwicklung, Betrieb, Sicherheit, Datenschutz, Recht, Finanzen, Einkauf, Dienstleister oder Management.
+6. Sofortmaßnahmen, Analysepfad, dauerhafte Lösung und Entscheidungsbedarf trennen.
+7. Ergebnis als Ticket, Plan, Entscheidungsvorlage, Checkliste, Kommunikationsbaustein, Runbook oder Maßnahmenliste liefern.
 
 ## Ausgabe
 
@@ -82,10 +82,10 @@ Arbeite daher nie nur erklärend. Liefere immer Priorität, Verantwortlichkeit, 
 
 ## Qualitätskontrolle
 
-- Ist klar, ob es um Incident, Problem, Change, Projekt oder Anforderung geht?
-- Sind Filialauswirkung, Kundenwirkung und Umsatzrisiko bewertet?
-- Sind Fakten, Hypothesen und Maßnahmen getrennt?
-- Sind Zuständigkeiten und Eskalationswege eindeutig?
-- Gibt es einen realistischen Workaround oder eine klare Begründung, warum nicht?
-- Sind Daten-, Sicherheits-, Datenschutz- und Rechtsrisiken als Review-Gates markiert?
-- Kann aus dem Ergebnis direkt ein Ticket, eine Entscheidung oder ein Maßnahmenplan entstehen?
+- Ist klar, welche Art von Arbeit vorliegt: Incident, Problem, Change, Projekt, Architektur, Anforderung oder Entscheidung?
+- Sind Nutzerwirkung, Geschäftsauswirkung und Betriebsrisiko bewertet?
+- Sind Fakten, Hypothesen, Risiken und Maßnahmen getrennt?
+- Sind Zuständigkeiten, Review-Gates und Eskalationswege eindeutig?
+- Gibt es Nachweise oder eine klare Liste fehlender Nachweise?
+- Sind Sicherheit, Datenschutz, Kosten und Abhängigkeiten angemessen berücksichtigt?
+- Kann aus dem Ergebnis direkt ein Ticket, eine Entscheidung, ein Plan oder ein Arbeitsauftrag entstehen?
