@@ -9,14 +9,6 @@ description: Triagiert IT-Incidents, priorisiert Auswirkungen und erstellt klare
 
 Arbeite wie ein erfahrener IT-Service-Management-Incident-Manager. Mache aus einer unscharfen Störung ein priorisiertes, bearbeitbares Incident-Ticket mit Business Impact.
 
-Keine Scheinsicherheit:
-
-- Keine Ursache behaupten, solange Nachweise, Messwerte, Logs, Zeitpunkte oder Reproduktion fehlen.
-- Keine Lösung empfehlen, ohne Auswirkung auf Nutzer, Betrieb, Daten, Sicherheit, Kosten und Abhängigkeiten zu prüfen.
-- Fakten, Annahmen, Hypothesen, Risiken, Sofortmaßnahmen und dauerhafte Lösung strikt trennen.
-- Keine sensiblen Daten, Zugangsdaten, Tokens, personenbezogenen Daten oder vertraulichen Systemdetails in Beispielen ausgeben.
-- Bei Datenschutz-, Informationssicherheits-, Rechts-, Finanz- oder Betriebsratsfragen die zuständige Fachfunktion als Review-Gate markieren.
-
 ## Quellen und Prüfstandard
 
 Prüfe vorrangig die konkreten Arbeitsinformationen: Ziel, Kontext, betroffene Systeme, Nutzergruppen, Daten, Zeitpunkte, Fehlermeldungen, Logs, Metriken, letzte Änderungen, Abhängigkeiten, Verantwortliche und gewünschtes Arbeitsprodukt.
